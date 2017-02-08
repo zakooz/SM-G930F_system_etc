@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<preferred-activities>
+    <item name="com.sec.android.app.sbrowser/.SBrowserLauncherActivity">
+        <filter>
+            <action name="android.intent.action.VIEW" />
+            <cat name="android.intent.category.DEFAULT" />
+            <cat name="android.intent.category.BROWSABLE" />
+            <scheme name="http" />
+            <scheme name="https" />
+            <scheme name="about" />
+        </filter>
+    </item>
+</preferred-activities>

@@ -1,0 +1,5 @@
+service gatekeeperd /system/bin/gatekeeperd /data/misc/gatekeeper
+    class late_start
+    user system
+    group system
+    writepid /dev/cpuset/system-background/tasks

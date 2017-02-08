@@ -1,0 +1,2 @@
+/system/preload/SmartSwitch/SmartSwitch.apk
+/system/preload/AndroidPay_erasable_Hero/AndroidPay_erasable_Hero.apk

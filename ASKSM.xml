@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<VERSION value="161003"/>
+<SETMODE target="all">
+    <MODE id="0" name="RIP" set="0" />
+    <MODE id="1" name="BBLP" set="1" />
+    <MODE id="2" name="BPWOT" set="1" />
+    <MODE id="3" name="BKPUUUTS" set="1" />
+    <MODE id="4" name="BUP" set="1" />
+    <MODE id="5" name="AKPUUTS" set="0" />
+    <MODE id="6" name="AKPCU" set="0" />
+    <MODE id="7" name="APWT" set="1" />
+    <MODE id="8" name="AWLP" set="1" />
+    <MODE id="9" name="BAI" set="0" />
+    <MODE id="10" name="BM6AI" set="1" />
+    <MODE id="11" name="AD" set="0" />
+    <MODE id="12" name="SLAR" set="1" />
+    <MODE id="13" name="L" set="0" />
+    <MODE id="14" name="FE" set="0" />
+    <MODE id="15" name="CHECKSUM" set="78dbbea50d1f21a5f9070261d34635942002f7a873e039352ec8b2d355c26e1f" />
+</SETMODE>

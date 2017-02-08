@@ -1,0 +1,6 @@
+service cameraserver /system/bin/cameraserver
+    class main
+    user cameraserver
+    group media_rw audio camera drmrpc inet media mediadrm net_bt net_bt_admin net_bw_acct shell sdcard_r system
+    ioprio rt 4
+    writepid /dev/cpuset/foreground/tasks

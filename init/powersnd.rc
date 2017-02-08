@@ -1,0 +1,16 @@
+#[ADD_FOR_SAMSUNG : make /data/snd
+on post-fs-data
+    mkdir /data/snd 0770 audioserver system
+    chown audioserver system /data/snd
+#ADD_FOR_SAMSUNG]
+
+#[ADD_FOR_SAMSUNG : powersound
+on boot
+service powersnd /system/bin/samsungpowersoundplay
+    class main
+    user audioserver
+    group system
+    disabled
+    oneshot
+#ADD_FOR_SAMSUNG]
+

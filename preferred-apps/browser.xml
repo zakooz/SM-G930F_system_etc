@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<preferred-activities>
+    <item name="com.sec.android.app.sbrowser/.SBrowserMainActivity">
+        <filter>
+            <action name="android.intent.action.MAIN" />
+            <cat name="android.intent.category.APP_BROWSER" />
+        </filter>
+    </item>
+</preferred-activities>

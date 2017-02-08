@@ -1,0 +1,4038 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<VERSION value="161003"/>
+<LIST>
+  <HASHVALUE name="bf71bf032b0c2ced473a7f5af96b3e5302bf32818d25b7ad9241b9f6994eca63">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4c275637ef07a197da43cdbf9843d6c3a36943e3e7db5ff6e4fd111e37e4ecb4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f661231f620f6cee3556d0d1d3159cc714e9005a5640346a62171f495171390c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="59ef41aa0852c05f6f0f2def80dffd0bf57c9f06a54f6e5ea9c16977547ba95b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3b9eb4aa809ceb94b70e3f1944c0e61b92474ee360b188d8fccc8e89131e4cd">
+    <UID name="android.uid.sec.activitywidget"/>
+  </HASHVALUE>
+  <HASHVALUE name="09ddc86fa2ef60699a22f8db834b081a11106e6618dbcad3767dbf8190010d20">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5ad6d330ab5dd62efaacfc4a554cb905beb831a86213e5d4e6c72c0bbdf5b9b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1f98bcb9694b55aafd885e992a20ce27730aa7afcad8f83e16a91f158809cfc4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="480385f3df801f96617d2820fad9951870a6ba16c347957bd54b9854ebebab9e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3dbfb9903442e0acdef7f3c993957af12e35fca86b849b5e6f288a80eee7101a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="9d08244b49b216e92092782f45f94a03a60767817f974c0ec85b0071bc6c3475">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="02cdb0ed003f0c3e6b484d33aaf9d025a317fd3a52524c6228b6c7884d99930a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="ce5a38400fcc0ab1dae9ccdcfd27a044adea9319e4c4ffcd8fa01479e709aa92">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="26195697f0dfe7cf1eaccf7abc525a7825aa69ebc8ed50a236f78df7596a7ca2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d78353a3b18d765f2d96c90c1295eda9b812844f7c93713ebc9a437fd81624f4">
+    <UID name="net.soti.mobicontrol.samsung.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="3ec3cde1a9c7df7cac40b095b70d71908b25ab046c56abc206575db96086cb21">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="abed30a806fa27d922139094303fce23849cf66a457c4efc771e386a3d3937e3">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb3d29c3e2e945af81571d92297c4038083945871312631cf3c5ec83e11acd54">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e7ccc75ff69ee1f4fcba7f1ec32a9e8df65d9003bef5e1e6e5e3df787d777c9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ff56132aa66d2d80e6c91887877edda189d78dec7bd6eb1736e7160706d26fa6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c774e47bc9c6fc4ecf9530305dc353e497e69b9e72637704e4bd893beec17e91">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad819e98505a23e4b319d03a73355a3996c7c74856226cb64387272cf516c147">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1effaa37207784b4ae6d8d58a69f3e72e46023f4344e271a7e17f4d436b0cba9">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="489a37927dc1a1746405e2c36d7ad329cff65ffe81b628ba398edae939ff9ee0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2efa01d9702ae73f2b32c0b8216de984c16b493018e59e50e1d3a3f5192eb04e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8b8b81c00acd6342ab8f87e95f04268ba91e242408728ddb90bcae7e58c803ac">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1f2ae1911abbe9da5603f8b5a72ff7346aea8510cb0dddca02ed141f82dec4f4">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dcc24044a321e1862b64ac1922459ed3ac1eb5038e09338499aa4c3e8ca218f9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f5d6c0735454e3831e6d407b3a3815164d67d89fe7506dd0b65755ef1cdb853">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f8c59d7dc43a91d5924d5425021ae7f1752ffc0aad93db01b5ce96497fe0e406">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9fa8236fb568c5dcd003dd330a7c14eda93c62ccd1c75df720e0ecfbfb7c5c23">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="eaa6db04fcfd6e4dede61d35a812fad95c135c53f9daa41be9558b3bfd8afd35">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="947b7a6ecb8c0c59f4c4883f4d76e6b333731b0d103fa6d79f3445813d6676f0">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="533c618e1e5768570a1913b2c6773c93130286349fa9b6bd557fda19befe9650">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="76baf5e61d4785b5fda06041bc134bf789a25ee488c8bb3abdb6c48914b7e4ab">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a92cb4ae1676c6566ae1a6c670fe939143b4305dddf0d7da7d68863ff58d75a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="689e04ab340db80dbbae5f817e2a16aab24082015fc70380ec631313f5b5cc7f">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="41e4a7a710f8a0860073ac461a3bd1458c77efd6cfbe7a544f3ebb21cee883bf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="198513b6f1af98082e1c48cd08595876385b6241785d4d6e7f90a95a657b4409">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5e0b82280aebabee56945af733de6f0be22433ab57adb67a62f7727110a157b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5d04403e1d733093706cd3ae754f164b33c9bcfa4be106b540465c3f1b29215f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c57e1d3ba0d7262a3c2ac86cb75011f698d162b00258e13d0489a4c63dfda355">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="e4d7414d0c18a99e099299bf714b1db2c5f46cd3f8eeba6adc70c95aa3dbd63b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="64fd61ffb322a65545df28b38d603b351d414f16923ddb9f3e1bb7949fa4f273">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a04fb982725cf0caf735b76215b5bb285cbba426fe5c2048a4434cd17abc52cd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="60ce889926fbf60878e7bb1d07e6f0ea07e723ebb9f29205d81486b1d8696521">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b0c647546b6ee1f57988dcfdfd9a1dc0a32d8f893d0c6686721e8b765743074">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3bdde3f647beabb3a6239b1a3ad57c7bf7bcf8adf5915795c4a42c00866b130">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c7d6538d9ce764780aa4177b481e788770ff02e4f2c84ac00746687ae5dea163">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a82edf30091de602e1b924ffb40a8d6e6d969c36f7813fdcd83b2d995d43ba9a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3caec00abd33dde29b000ceddb864ca1fa9052c71729ad25b847d6944d519df2">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e6083b89b5db6bbc614866d6c9484369e4f213b976f5247c5e9a24ac63ca7b4b">
+    <UID name="android.uid.shell"/>
+  </HASHVALUE>
+  <HASHVALUE name="30aa2a80d8d2e4d1a69f7fadaf1771d744837cdaaca9e4365e1f2480b88f6bad">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7f0f1ee9eac5de4e5fb9a6bd5a9745f60fcf18c060bd377c943e77ca319acea8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5dc695c2361ce6dcce142f89cc77803da0f4ea474698932cd1dcf0231ee7a4e3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="11e8a9af2c1256fcd43fe5639a06e552de9bd7691c4908bf450dece0091b0ee2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a498634e09d04c2630fc32af0e551f4ccc4e007f08b3e0b65d9cc27d3e49b49c">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5dfbc2370bf8390d5551d5957e8542f860a15639e0955665daa6a3d7316fc8d">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="54eb53c30e5acd4d54326ba422bbe948c40921f6664004ac24a17a4e8fc374ab">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fa88943aa384926dce926fd3a6370fd40423f0cb1d2745cd42db4b17f7f7a375">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4a2d63b828b1f4238e979ff2e004fd4107eb2654ad7ca6e894253d1374853986">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bd6f41b78627e6008e45a6d16c02cc40883fbb0b72abd273314329b66a72e5de">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="db2da8589ac7f1b7cb3023641637af5d4e66a5a3efaca4633f78e0a9912a302d">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="80b16a56bccba2056982ea267fb227898407cc7a2608ebe04a2ecdcfb03fe092">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="54a26e814648980572a7d352bb47c21f850087350f68087b71b75dc88b74ac15">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2ba736981405afc9d4d3b646150878cbc9c72fa3ac9badfef252a48361ee50b6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5e981b47ec5856c4b6663ac0e2ef117d6107adc50296c7e8f0e2e36ef8640ac8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b77027902c5a26ff9b11c05d212829815bf90ce365427d8c6dbbc54376f7e9b0">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="e4aaf0914ae33066b79c484fdbefad9731920834813fe740bef4876635dfbe97">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="88606a3a3567bc93444ab05e73d4d9736723bb3a14a46b38a8b57456f3154cb4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="19e5d69019040a0ee6524c54d41cf890b44f1df3eef6dab1da808e43a77e652f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="333425615eb5ee6b0c826f37893eec11ba680448d8676275265f10f7ea398975">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b39399ecf4d304f557909aedf89a510fa9ca376263985758d9ec015cc7875841">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e3fa55c1683dd813fece5fd5725b15e84e005af8e8486cae1b80bba72d685728">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="46768705311577f8086079989b9efcfbf9d810631ba5a24423e9d1ff03748dd7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0c2a8204cdc9f8c98554b8040d70c59e98ce3d8e27aba9b2a5ee72c32e8a8477">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2125e726172869dabadeb41f02e949e05357d0fe494890334da966a1f034fe5c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d0fc1f7d14a0cb66a9708125d9f00c4e884b0631e7e69cae0dc191b238fa43c">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="81d8dda6f73a1e03df7b113ecd841612d69707f285efd337d1b3908aa5374985">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2b0d4988bffbef67c4612c0c45f3cf176d2bcbf2f3ede0f6f8a5a2f7234a7726">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="acb58c469ecc6a59b0fdce2c023454ce1e25c5f5d98f653e08fa12c1bde8c009">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c99a52de2408e65683926948fb9eb744d12746c59bcaf7f5fd3003d5e71b0a63">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="532a5634eead6382dc8545a74f24c8d1c9cd7b0d6c84a484b5fe7800f02ae82e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5b13c99fad47fc0f7c8385a19127dd31a53f6a62315319ac133f2ffd9364076">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5704d3f0ea212a0aef729cec142ab65f053d22d74015be1c22e59ca9998d6a27">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="60c95bfd47e85f1479b64493d931d362988afe9d0466fd4444b1d49f6c72ec18">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5d44d072166ac6291d0ab624df962c20ed7c5a90718c62e090db64a53f4af921">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4f66483dbd32a4e405a9dcfc4dd028f59cfe57d2d4a6b9c8ef4708cd37df57ff">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="70086c65af025938d4e6f469e72161f8fc1076756d908f2cbbb87bdd346b7ae1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="76cbc8b103fb1faa3d429e6b19b7a0eb260bb03c5b51a932375d3996fff92316">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="eec99efdac1accd4b6c15c0f8212852139f134161b199fe1fa13044c2cffe152">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="0531b31c3cf3543c3f57c8fcb305ec4f9126fe29b9f38885ad7eafe4cdb7f5f2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b371310302d97edb3b8a4a42ca337644a3fdf6c1c1dfd8ef27ae2c45e56c0f79">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e1fa36bf83403110d3d8cec34290e060898b22d6069493276d6a7e066b91c758">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7045f071daa1e708c8817aeee488cf846397039d4a73b8aad74800cf03817a49">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="692749245febb0f471d362ce0f704d9e04707cb21f7d6e869cd46ed70c524f52">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="09946322805acbd238781bd95b4dd610e6abf0539d25bb382b175c909dddea50">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3f706a911cf9433fe0f05522e68e2672d92dfb8c365a4339f53d5da22d29c279">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a8bc0bf05f59e615fec2e0a929e1f7f67971485f68ed55bfb86ffb7cb5caa7ca">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6199ede42bc55b45e7d694957c003ca9371d5aa6cbc4c343111a97fbb5fa33d9">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f5cf0a61d31596db562e31a9ab461bb061509f7fd7805e05ed548868e2233314">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f13bddf0280324bdbd14dabe7c1cb57fef21b6eaa738f591ef5c8d60a3843584">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="675d0bce0aeb3e6299375fa4b92700f895d13416bc978d01aaec34b382a61dfd">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a9db1984fcf949c1e479036d4ef61f89e7920504e9b4b44d21d698b36a06d997">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1bad5ec517a1028278fdff252f9abf8ffa760f95fe791be9e5380862c07f3a08">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca75c3dc6fe3e7949aec5e74a5794fb84f1f97e432a710e2e55e8f497974264f">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6a98732894199bedfaaadd1b02c30c22d6ef785add0a03792fe4dc0d32f81fdf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6ba3f59bb8373803dc3f9d659e7d0be05b520b59e79066c5e8b13a97c4473742">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="12f9313e21cf9f9698c7cf9d0d91bfb502bd242db3a7cc50b991d27649262730">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="42fced79d5d1b65f67bee4a74abd225e0925b714ce0d74e4ebeffce0235a9135">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7f6fc9ecb5dc8860fae50ab0783fe531c18dedba504bbb4d95d706ee231bec7a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9b7709b070b8172971d2f128a7d663919f452583affd34093aa61af5d0cbe2c5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a3e47d42b5d348b4915aa60642d3294b8b82cfff073aa6b174b3b5523ee9eb75">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2eecca57de8573263b98f89df564cd2649468c758792aa92b056faa5fbfd39f9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7937cbdf03bfa4225d6d6f0172a5aea69ee24c4e3607fa6ed1c3947c489de734">
+    <UID name="com.samsung.android.gvremocon.client.controller_pref"/>
+  </HASHVALUE>
+  <HASHVALUE name="51162afbe7f28007a77e945a8e770c22de49b1a23936a105cefab71ef0cded8e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="67224eee3bfd77b6d97a4ec5a8ac770a12dc38e5ab68fbc0b06b568932da1005">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e9d92969653ae08364f3b8b5b182ce07d05d6136a7b428b733e883150952cb08">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3fa46dfddba49535c73f30333f27f20482550a182b0c87b6c2282686e36d2333">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d745b7964a3756a0f68e695eb79b948fc9caa7c36625297db83b02245d1d4c47">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cc3894499ec9ef6ce1f8d3da06ae33b28c95ff734ae7b284a5e01ad5f49f35ae">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="549de3577e0efa0f1e89052b5ee896b79b8377843b7ca17c10fcd71cb602654d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="291d110409f7f4cff92b2db86b42e3109756cfaf85e756e74e2fd4871089c7e7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="44f9085433193c8a183a360b85cda54282e3d70a7fc6bb3ab064937f3a8762ab">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb2439c7ebc66dc6eced15da3a7fbeb01fc9101d4a6b24324cfd7c3ffcdbb994">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="65b209398e7d1e1275f10ab8b422aee9c3f296cebdc1e1914b4b294005d640e4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="96265b7d2f1d61000a7e8746143faa42de9eda9be44334f86c3243e1390155a9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="81df8c45e1081de43b456d07c8070410d66599d4d714a707ba2b47c7d7d2ef58">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="46e4ea60fdb9ba4e15be0566858c08963ae63e83bde05b1abc17ff0f72203cad">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0ea1105cfbff5257599c9dd37be157896c3eb0ac881b612ada7417a15577563f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="76927aba94959e0176b90138a4854da39ce56a208210099dcde4d84cd6ba4f3b">
+    <UID name="android.uid.graphics"/>
+  </HASHVALUE>
+  <HASHVALUE name="78cde2206aee8f76af3810039592080dc2aa663c118d8a7c60a83af821bbe346">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="29cdc60978b4ecff6bfcac1b01749a0d34d9cb38e6b12a48296e8dd942d9494f">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="72a585e17478f45088204911aca5f478046b62d68f7cfb233c482c5843d8cbf6">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e7a7f105f3e00b1f33fcde1ae5d14e516e9a766e31d2536ccb57af6c9db02b20">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2fe569900900e02e8495c42b89cc726686bbe2fb430520e4a70627f24f18f5ad">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="88738efc4a852cd417d9cc822315ae39ecbd4842027c51a872f9a88a54e4f40d">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9d82ec6402e157e6062a569528ac6a77064c647e406e406b3d3bb96ea87184c5">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1069ca4d6f010edcd1ef3e944cdf9df9c882b71411c2a5b9e91b7a8bed8c2c97">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="08049d22b3bc9daff059ea6eec433d8ff62f8eaa3759220bc32773ef50e4b724">
+    <UID name="android.uid.shell"/>
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c67be5044aa89cf15652b893c63eef3e27197230cda52a47da28324642768907">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1934d4da949ae496d0b9ff992dca941c3e04804a3004535ffc79b5c8bf2f5325">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c52f67a5036d20dd3f5bb92948a828e0192daac7d86650dd1b99e460f2e73eab">
+    <UID name="normal"/>
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="d20c416c83799f7b1ede2a6f1159d9e44d99535cd29e5b6d43a8a6fed651ed1e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e9da4937b7441e5477e4a9135acfd074c76714f6629c00de1d4556198171e1c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8ed60c19c01b694d60c7a39dd3f009d132d7630ee96518c7de6268e36005eb7b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d3cb1481c7b37e6e94b0579a1b2f27a1a80bd38835661bf59d128cff6d431db4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f81911d72ce25a012ec830aab8dabe228e4df0e8b9a4b665ee2d1a809fad58fc">
+    <UID name="com.samsung.android.uid.video"/>
+  </HASHVALUE>
+  <HASHVALUE name="6f522090f9917ca6b419c53c36499fbd43be0c3b102dc4ff1320c907b37b36f9">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d4f4692ba09bf2636f34dc2b77aa2c9ab4ba923a000ef70605d4b67849b938cf">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="3b394f3e4f979d04706afaeb1169266221f31397480af7ce62e0631425350037">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b8a398cfbb097b1fed77fad505ed273442d46049cf9164480596fef1dfe5e762">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5461a60658a72ff5410c3a62914a6d639bdc3d3e0494530aa1a94c72be87be91">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b752318c80fa53dba6b6fbda8f436b4b463d571bdd92fdfeaa62bb8f3ffc600">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0bc3393f5fc278442d5d9c2382dbad3713eb7dce7e86b3bd35245612d5445bfa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e49cb4b5f72709914e708c33d4d39502f29feb7cec624cbbdbe3a25ede1552b9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9fcecd38dacff2ba55960c8cc5afe3d3490d0876959a692fe86640b6061fe424">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0b1066b278d631f60ba4b3d3f9c107c49f0df4897271757a0d63809d4c3d3994">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="09b443f73ee9c8a0263fc948919fca213b679372272cdb0ab8de30b19a4e7a28">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="bc2cadbb3600d66a683f4f2f001c233d6aead1b49d1e35e0fb2f163e775eca71">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6528f60643f6c373a27799618c3b2b5e228b27432afc1191da90a05d63848ed0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="24ef13116af498f47c1c59d747a8a69f2cbeef0d225921f3152ada2b08f39d7a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6fa05c9a2f6dcf82c55743037ce02aa4ee5c0b43236540dd1c2a75707b44b842">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="af6e967e445c027afe7e2b51e3d80bb2f5dfed9016b2c7cf5b6746871a4d37ff">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="62fc62e90a30c83038b6d40e792e647f1418a08b763ac1e071c43200aac0fbc7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="73b4246739f4339375f3dc4661d93dad569bcaf0e9c9c094424dc81a791c408f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca53281a6549a1f4965c3991c0138534490bd455c6270edff6bc27b952b2f343">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1eb94563e53f118991bb692e3d10c90666a9a4a3e05ddc4c74e9b223b9f9bf55">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a3ad2bb459d6ea9a7fd7efdf7071088c21b81b3128e8e2b8d9bd7a5e447e1826">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d1e66203e58640d8a5c0714045d0a4bfcfd18795d88f06b8e6664e4fb6b677fd">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f540cf8823bffa8b3771d207d7af70e95155a97dc579ffd6cd2bcaba3202ad78">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d128a5ad739fb5cade3c5790a493a89367fb53ff6cad5fd75e2c815b2fe89b9a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5f86b6ed29cdbfde45357bf7bd22712e9c6bb81c339497e60a406c229f5baff8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c4d6c82c0219af05443c9ad9b3ba4b1678afb468f14d01c93fd31b485db06962">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="eda7aaa1fa8c33d244733a2a52a1a07d71b0922ce09c313fc1648b14ba7108b6">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="98b5fff1ae45e616ec983ef9b4e312bd5cfd2f0d2b630bf5a15c158f428f2ff2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a015a0bcdb2704f5ac9a0c4f4d9ac0c01b605cfdcad8417f5a908a7cc0ea2d69">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="469743d4e92ed0b29809f8f89e9cc06370370503529355513c4cd4b8032a1567">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="54e50461587e81efcca6b0fcd55ef9c040bbb0428af11509a96cffbbc0ce7a44">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1bc351ea00c97dec8250860924e37d2e22aac83ec28d713fc6f07ec3d77705c0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="17b3e25881afaa98f39630ec203cacfc3069249751018d9f611e9b597bb18759">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="db7eb879fb0540c18e7153598af7c303fd2985a841400108782aef28baf418bd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d344fa465b4ae62d8ab392e73557c20bc480d6b8df8aa079acef0234b71fa289">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="af64b63f7c2ebcc9f78565ddfb88a34886d79a9de18e08f3d2105908573fd506">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="6156c49a7bfcb3224ce4339d92afd57c709f9c51850acfd85984bd8d1392552b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="79277d138b80e7b6a78e1430b719d66a217fdc1eaaf5f280b44ea199cc4553a4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="fef09ec9b2487e68fb51464c530850f8a091e13f7f4ec6f01cda8732294d8908">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="383f10b23f33c88b43f8c05e8fc85040834a89e1312d6121f3218ec20e19e464">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e1a6bd9baf4df3312c22a7973a2b47c8684f56fda712a413b58a52f541dee80">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cdc344ad82a781c8365b9ab6054745e6ff96a5268df8063a284b78899afa9efa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="659634467ae3c0176d58c0cc257a6d88a00617e4315b0cd6dc5563e36d407b1b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7699651ebe2e2f532dbb865ebcaa0d0a74e6d3321364d22d5b99c6486edfc763">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="970ac8cb6c7a4bdfd35554605d527c3078f0a2f50e1d766335c310317c1de685">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="646bcf312c626c6bcecb3955dbde6222fb2602161120aee2fda329d8c860ec16">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="96462c6e71ec50d6161fe06dbe3ca0da5640dfec958a13448cd1e2457c3b9179">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="260dc0576b72a4343e9b5d5abd1b7f2d276a8d21b84ae3030e083f9081e3d01c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="35b12e22f58d1defb25c6a713317c43e2e68beaeee3261e931a222c9570bc0b8">
+    <UID name="net.soti.mobicontrol.debug.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="24a8b2e4dedbf902ec0160ebeef1b9d2f385078a580626ec01430956cbf8b6fd">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5b1f3d8c83f7e5dd3560461a3c130cd0b5b91c0da9e7a2a1a0b0aad85ddd6dd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad75b659f3a93a970a579ea11c291c9f625f57b9fe6779a63127eace098f8189">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cb7f43c8caa5e0cb8c4bb1b237a987eb0d225640c96cb369686a9253a3a48b04">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4024da688791dd168767e1ee291b6e08b3a9ca5c60d7c2b76176ec4e910546e0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c91da6de89a85feaf0f7e0a8044bc231aa56db0054066e3b49ea967ccb10a55c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="54a67407478223138239ebab5e0973525335aa8d4dd29d21221ab67aa28b0139">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d0da11e6415ed8af8e462bd9da9ec14161976aa65d0cecbf8a137cb8058acdf6">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="74efcb3d826bb656ea09ced64d2a88aa979b695984e2a6d806ada0853412e0c0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="daf427e669eb042e0580e403f880eb521aee4a38abb8dfdde5bda26830efe0b3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="487956d59759dd15d800c0223d5b039a4fb0071d6d1bc9e76d660be12cb7f4e0">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="83a3bb52f5f9fd7b10d8091ba3d05423a056a92865680f2f8c823a65c2dd7fb4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9cbc2a8ef1156c87368ad95075335b4845695a2d405319cfbff38847a7a3e27">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="93ff8f1d5388d5f503b83d773807fe52139d57c4382cccb92f8cff3231107f54">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b527d0e41c3998118c3cfd3a0ff4b97db46699a81fe584001518e0878e223d48">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e3e89a9783d487f6fd1141db62da33ace18f0236e241ee875f1be8e29af6f52">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fbfba68315fdc050275f3630b398ed45109e00bfd3d540d66d035512b0a1ae0b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3b8754c1fa7ecd515b6535e843ee61eacaf365dd687539e7c83f9be9ade2b98">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4fb226589f5e577b90a4dab737f820e0f5b2f7fc8afafdf6bf258f51dc549ff1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="274cd3d59cb4b5992aa2abb91ef9285822fccb4d0985c58baad1af566ee5c5aa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="15dd0330513d1892b44e02af21b07f2025c2dbfcb172c3b69518882cfffe3493">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a6995ad05a374794ad43cfbdc97b7e4b6f006ceb64912250a4b5562b8620551a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c8077d113d2c9999d531fed1d9214af69d40a46de989641d1b9068d267b292e2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="08ba09a16db2ffce31c20525dce7b71c088acb2d6445bed002cb4a61dc6b0951">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa575b0bfb8c4c45ff933caa5c0676f0fc16fa318694cbb79d9ab420c95b3b16">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="523aa87b4f46786c36c8174e15866374efff9dff451ed5204baca26cb3a5104c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="26c9b56c4d5c6acdbcb9bb71ac199c76c185680bbfa95a97336a4d22d3f5ba29">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3363658732672b6c1e929f90346362095a6dd4b49d81f65713e25b5da974d635">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e60372f9567cb2c58c0bfd835a53da64440e774c017d1061e810f1123dd7d8b9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2870fda18cdaabda149f3a73bc2c6ff64601840c148f71435b063212daeb9f44">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fa7dd3a0823fd2fb66b4cc2aa1da098691c6b186828890ad4ea486769a617957">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d9e4997bd1ec711d6722c51914f08426293f5a9415fc80c05d0a362c4b07446f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ddc234bc3dc6efaff3f92d74f7e1c810facc57df61139fe62a60b0a180c42cec">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="edac4cb1499e096325677880aa6042f23e3f0bb76bed1af13c92d569925b4c84">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e14e7984bbee31e13533b8f521c86ba81b4b452f79a5efe61bcd4e6a0652b9a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a2a52e01aba0f092b79eb6e54d9f114f4970bc465c9a7ca555121b506d45acf4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b3036ac88b81085c4e9fbeb91866a972183580f04494a34f2badc3964a78be1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="61cc05b22963e8662b53986270ae80170545550f1640b9c9743b2741fc8da972">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="2cc4d029ad24cfdd31e8bd1bcb2a83fe91df744b9b17490f407c223ab99b1ddf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="49ab91f9f4519eb54639f6dfabebabad137a727814b91436770e5a75000c5762">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="59b986ac436ea75e9dcb2c20eaec647e7ae156b0a58abb6e79228ffbccb125fe">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="43a53f3180b62cc5d1cbc62a9b7dee6cf4c6d4147ea6dd5b66cc9050b7806b49">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="fc0f75d895b60e43b3e1bbf526030c92a1f6cf1b199ac47bd4ccca7eba3255a0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b148a561470889804353806e1c4c5c40088e6e075c548277dbcfc892663eff88">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="83a85afec6f48c3f04be5b0af45f34dcf6bdb26b402aa826e6b62b9b3002ac0a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="24882c4719b5658023dfa23e09d786a8fc360a5376733cdfadde3fadf69bad2a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3814086c763b36ddecd7a44bce6036f126e67b91a649f403863b24e157db760d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b503dbe13af5bf527115ab4a0b7aba2a4821d83a78519cf99c8cc0bebd08c86b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="05d0ad9e166239e1ed6385466292cb17b118714d97b55084b259cf4a930fcb7d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2156777fce133c326f9c17d5bdec0e5182894280496c64f265035f9d310f32db">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5182204ec1c8113d5d87f4ae1ebb92dd49f83fee06731b458792bd266dbda7f8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f0f94b5a9a55d56c0f2456635438e1a673a0255070c843b809f0c9a59351d503">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="902fe05836ae7775945fcd7fd5c51030b66b4b59f1b0904be10be1a05ee6f945">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ade1868fa91ee36f95a0d8c89835a31dfa8d001f5a1e9396fc2370be92bf3c3a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="71ae1d401bba2df52d322ca1aec15fa93cd50e2141ba458e98c2ee9387b2b61c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8da2868a83ef964d0fd930c45c89aa880478339a4fb6df34f44bb39baa37480f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="85d0871493c505714a824596aaaea9278d08f02a75ca08932fe8d39975a84ba9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dc44341d2af04a9933d8ccfec5730a33c183dd1fecc6a292ef5345e39cca97af">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3c4a982ce8849951c7fcb97dab8d39c9bc1e6760e97d6d71296add0c299bdcdd">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4119a9e268dfa69a90dc25136e2b801ffb0f2251c2051da9593ae4a9b7a41c1a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5952550b2938377fa38345134cc8078bdc5d03fe213b7129fae4eb53bb0a776e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3c4801bf88338fe782aba2a5da1a0c40b6deafdfd4005d1d2cb7bc869703c4c8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c4c3e1e10d838e7796950157199d3409f3b3eeebb3ba803795a77c9fec037a0c">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5362a5a6744616dbeddab65b3368dc5141786b84de0178d8d1657cb456059f8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ed07c2e6813d4ef14d16df75ad718d9b40a0d7a9ed9823fbe3622deb45634ad8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7cbd0bce3fe95742f3a650cd39870c742c62007a4444f556005047a9c05945c1">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="225cb53e7b000a797b6e44c65205e4251c31aad5a77390a73a3669a4fb0a2457">
+    <UID name="normal"/>
+    <UID name="android:minSdkVersion"/>
+  </HASHVALUE>
+  <HASHVALUE name="52e8773bae98ec8c9c4f167a158fb3ebf9657ec87b44389ddf333dbcffcfee2c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ba6c95e21bcee8fd6d854c46f39d38f6fc2e072eebcca145c4e668f90f9baa8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3df0f3203aa48cfb60cb87a314246b9b5927a4c08f33ca8966252aea4655b27b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="80522ce226ccdf29a36908941f38a2dd2311e3e053f072124f71309f90b0d7e7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="170964764451844e3c93cc7d6e21e3dbb98e625fc5006c39fe97c1dd85af719e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0e7715e49215c9864094c5fe101785c433b727f0b28f5462bcdddc9530532e24">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7e327d36413d1d2eb065984b6a9c5e5e0118ad3f71c03ca0c63e0d7d94058f7a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b420b05c39e8c73756365f6ecf12d58dcf54fdbe781b633cbc712e8fce072a03">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b7e5d924c2a3a335884e671e890e78c612dee6f7ed8a3028a100dda6503aa5d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c4b1f897724c2cf1f91cbf6f75dd97338c05576096a261981e06f4ca27abafe9">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0a24c38b008acf43351a83b56cd47b9bdb69dadfe166da372b3bf13915db36b7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0a75f0abb0675c36e6e763787a2e9cc20015710a68b719f9538430d4144f73cb">
+    <UID name="android.uid.phone"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e0e1661d03d9ac7b1fcb86d495adc80a5c33ef11e0529c263bf081d20f8ca06">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1bb338481d8a841fc2ec8352fc09230f181339710aaef861eecf60be447ff6f3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7bf2e8644f0df8795e6e0058eb804590aaa9670934cd8d05e5407af25d76b7e8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4c92c6c7e1888d025117961328c9cee6fdcf9c50844811210bfa73093dd6165c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a6b8c439cf78ca84631e07610d5fc4cf54f8878d00e534cacf1c8edba183b175">
+    <UID name="com.samsung.android.gvremocon.client.controller_pref"/>
+  </HASHVALUE>
+  <HASHVALUE name="a3fa7343b0bdc300885f536b931b478fbf1f6626b790a356166fdba58cc9fc6f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6a43c23aee0b28ebd73951452f39a8a397bb810485da0bb9d4ab84576adcefb1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e650c0daac2b43c599402ed1d8484c8890c9beadb8e9bc376c554c978b4d7b0e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="e2dbd701609f652f7da2e96a350069c4f987203e4abb567cc3f5d7576f869bd3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9de562d093151d09baa70eaba75db672ec5db7dd0a0a62fcdcf1258848e84df">
+    <UID name="android.uid.bluetooth"/>
+  </HASHVALUE>
+  <HASHVALUE name="56b86404ef8273294c88d74cd08c12371b38c705b9a1251a294c7a81aca6c392">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="43f4f2be8b30364d79a6a0de33f9d37d883a2ce6e6a0dc083211e2912aadd99b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5a3625aa26a879633d2d010f3aa3b05d86a560bebfd4f0c64a8e4eebb0828b28">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e704f97a5b293ee7c77f07552454fe24cd35f4c36ecf2070a21618a467783102">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7259372b5db490560bc443338748f5ad14c6da13a0869e2c57bbe1fedaf3240f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d1f1e30b393cbbc69f7a6295ad899a924259721401a9c7f804e8d152ce82e89">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="521c6ec94c21bf25ee27ace63e2a96fd5fd9e831008b68040d748bc7d09a3ce6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="943dd9e5ae1da10f66f930f610102bb776162f749af8664371387ad2f79cad77">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6904a45e821adc7aa3c758722dcbb588506ef7cee409daffd477524de3cd3176">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1318d77fdf83f795cd20e80376102c6520921fbccdbdfb7df9972bb3cfb27078">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0052cb7736697e0108265109cec7bcb312d3bcd1b23ee820cbc7fa0ffa628287">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0d0ae6c7ef4a6dc61acd4d4512f7536082cef10d79715445e8cee76631768a7a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="362791a4a27f9f2008b1ba89bcb3ad7929da59e046ca9171880040ef0ce82a06">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5f4860f1c55e1c9d6ccd5fa406f2f6d144421197a2aabe4a52f092c4b529730d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e748fdbe14e13477cd06d8a9811154b4caf70ebf0dfa032516cc099e99f0dd8d">
+    <UID name="com.afaria.client"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7f0dc9a6224f98f4011436c094dfe8efa988960e8e703d16ec83c08d96c84ca6">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bd784b47265382d240791b8545efc4a3d582513cb728abc15650fdd811d003ff">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0771e3921006435175f6da945f0181ed5edf4d06c7926eecc073481db50c75d1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e855fa552c6776a14ca1c2b7e4e34fd4ffdcf9ff3cdc75020b9704f873e014a4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="326acc7ab2bea5c0bf989bd97868cc853dba8656ccf65689d7467c1e7ac15af1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="962818e3627d9fad733c1c5b6d5974d94272fa0c46996e06c8d77a4447d547a0">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e004b0bd628ca1fb7d90fcbc75da186e327b2038dda72a4ba6f20fc7a769c56b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b8cb1a41a04fd95bd9451e1d08d0f3f3ff11c0f14b62fff4c9027e9df9c92987">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0229b0b73f1fa793d080a82c20c9340763eebfa3c55d79e4c98ef6e351c3e1e1">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1a756a55a725aa1d3d2885117ba08d77cbc8f83c1172d4c7f69866d7eb34e5cf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6cffe5fc694855a61e324c5d919680862e0753cb268af40109529e5525c4706a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="6e5ce0f66de8f33237c542583b7a92c9bbe3eef3d744b451ab5910605c81dcca">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ee02e6683703d71ba576c60dc8bbb57428392ec5310fcd251f3421395326487d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ee3b934a5598db1867de7c9eac6cbe8f39a692c48fd4173281490d9c960e2c3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="22dc8461fd54fb834b777a059410c5dbe0dec3be8923fe17b450dc2ff1fd6279">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e23684ce47e66abde5c224751c8f950740df5de8fb0de5fb11d86cc617617f14">
+    <UID name="com.samsung.accessory.wmanager"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5fe9dcfb524f62d7f93ead58e96c7f301f8549e107cbf33fd6af309e4147d3d8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="271f891edb4812312127a6f1e61d716a0a867887c81d57111b84aed9b56c6637">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="c5020e703babfe795a2f9060fed2ffaa3493a2c3fc5b831bb1f2d5d3d64625f2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="edffda652727f73997c870949cdd34f9649416cbc7f276052b6e81dce9c37795">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="85eb61bc8be834bbfe9b5cbffd8a37e8ba0ed243197bd506d5dbc96d35eea41e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4ed4b2d7b6275344d7c0b99e4a60f9b5337e8d7d4515a9e56014a6ce4f081d1a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2ecc5dcbccfffeb844a474060b7599a59ed1cf98482eb97521387513b34059a7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5eded5f265d7955b122f479fc31ee00e260adee04fe7969c6aeb95e0ec320b2">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c26dc85a3af7f1d87650918f60c95e81042052b443a7a4955bc7016f47c9fc17">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="39a3331562b8711295aa48a89da23788e3fdd35b12d43b4359dd36d01ccdd977">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dc8bd58234f09a8b785ce3816006bf6e68466c5846f416e3d3f0945c1bc87fad">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="badb959b9f0d9e9e79f70116dfcadfd5ea482ce17be1ddd80a2f66595cea3a3c">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="67a523751c3b0b6bb8b6d4f29d4413adec1308823c0c98186f69dd06f2ff0d0f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c31e9ab2c57d7bfd41b0eacbfb233ac4bc1422fce8147744e09f1b045a5e056e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="57c388417a9a66150e1eabb1668281d9767e4df6afe6cee222489901e79b82a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a11179a65eacf69503df8aa003d5ab704cc26ec5ab15f12a8272298ac97bcaf0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6ff15f488216ffd8eccab121e7bef2eddb48fa1c1a825bfdc106714dd449500c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f8eee61b653ac4ddb1c455fa0b5ff2cc1950e9117b8d4fb57db12ab516077129">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f259512568e93683a57749edff8dbfbb77d3ad676951ed35524279d78c556924">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4fc43a2fce586381a2631406f57e4e18d789426f9f2e2db414e8d09f7e3ca7df">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="64cfeee09c581df4033157af6adc7467ff93587ce5c5840b41134fca383f2626">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="60d7a0fd6d78e94f32262fea913df8138d5f3508334b2975a9b645043fe30f94">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a7ee15fcb0fe0b94762a41596ef1b312f80fb8eade2f11cf2da65d6dff195116">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a2af70b98e6ab5e538f19d2914a29b1832f835a2364f7a117506eff7f406cc3e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3c6641fae74bc70eaa9800e3de084c0e0225daee3f9506e70ef0370b074f0c68">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cd59e17c27071319d8fb6953bd4a92e5b391b62e8ec73dc834be340e2ef147fa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f43d107672b761c1a974e62373dd62016486782029c64634025678cb0e47546d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="994d4dfe774fc1e66297cc5e53daeaf85d7d3da5ed90a826a41faf9c7e2a04ee">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ae484912541d745272ca4634de5fb29b5de71025f60726157fe15b4ecabe4d98">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="dca996d686a809c69864edcd80933ab20992eceb392d389824850016f781c19f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9c99ffc6e3508285c37282eec54aaaf7685c5607dfe248a7ff9a3895b4c1fce9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="838e0abcacaabff7da925aaf2851a4c3ecafeef9654ac0338e55f2513be7dcbe">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="648108a67f6a6801011c307c82243b8aef235111620d1f50f684d251869f2518">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bbb30f0e317c4a5ddca93c51b63b06c795f1aea80b30c61c95e26dac70a61e46">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="10c319952246029721f9c2a22ce3d520ed1cf8f22466f41764d8c1297f046e16">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="12f42cdee1ba6fea999f390b8399ca44b68312e196c1e263f076d8a4f580686f">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="7181e9baf1ff614ef3f70b53d173b9e52dedf9a7603abba9293e15807e1def8d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="16611ea0e4ee8a23cdf3d02d6e51f6833e54078e9f6e23c1536b67a9cfa15080">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="20c006e6c3f683f77d1f7d8d1aa9fcf3bb72efa9ecb2d60bb857733231dfec5b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2813753b770ccdf7b9e95ef0c46aa9b30396c2801b3d677eeff139b59c9babc1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b2f098f4b0b3a7b1047d29c4213573225a7af0156ebbec8ab80918d0d78c48c8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b99e98e194e1427746a8c3c3b482c40730e666e87562e05485dd05edf9b7b5b4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="c4cf90a218afcf793a4cf1a201e921b71ec83260976d1cdcf8f42c3c2383f224">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0925cb7fa242147a1efb73724aaa97b5cf9f310f35f67cb381fcd547a939e3a3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e3f29f361734fa5e377e8e46b7c1cbc006856004603f3efcdaa686c428356731">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="c75e2a8b7709652261ce1e2c85bfafc957b6ac1185bb1ab2b3289ace6d10c85f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="841704a5ccbbb12431652a99e7ee4b78be205c7aacff65a438204dfddc02c610">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dc78048330f7c4523e565c64b7673acc9ebf24d66081205146ff6ff248d3f4ce">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c97c5450ceef800eb0bb4f930600dca89d654c19f94fb74ff1638e05badd856c">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="0afe75f1b0554c60cd7205c0774188feaaf0cbd8997e2099bea27e3e139bb3c3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e317ee70904107ae14f4c8fd94e7f75dc72c63f138cfab995c35db596bebcc6f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9cdf1b18a83f06f891997d1b20d006779748ac125923f8d4a6f8f1a5263b83f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bb3217d9d1bcf0529a09fbb5093bd55053f6e6ef1731fbf3d1de50e234e9fcc1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ddd00a3635ad1d7ec163b0cbdcd387f4a7e8ba0bf9935c652939592918bfb474">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f57382be1106c01e3bf3eca02e6e9f19fceae488df874a33ce97fc2c400c505d">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="932bbc79386eb9af9c382653bc15e0abde336494021db6849c9017e1417c65c7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b82c860a9efec467a3a53f5112c43b82f2d654ae93c7c215a47c419eee327eca">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="42f8372635c57c8fd8afef615986d9d61a346921274df00bcc9eb99326a28a61">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="6d637f06e9b76634c825c0018fa9a52586fdeff1c33ae7fa3ff4f203969b2570">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c48d66b9256539011ab4ba1647c7bfb3d132f91a9b0b84e4eb9500cdebd25c60">
+    <UID name="net.soti.mobicontrol.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="33fae3af42b42b2dac16cf92e39ada8c32ce31a5bf170449c941712fb83ca93f">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="793cd34cd45d6919079860a19e1868f237607ffd1b341e6cbac610fac5896e48">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3dd45617b3113e4819f5d0786b1bb9c7495f988e8a2656095b0e0f823e4e910b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="da6c5da6c188f99ac2c56b3eac25e80dc742feb6b6d3e87860178a1ef3246d24">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6c0ccaec2ccb995b69c8cae0d8471add6ed364d13aa1957d254bcd1e300a3d9d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2653eb4533f5256fbed402e1226c0f166fe27f4b4ebfa6b1c5ef24a3652b4572">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e3c303fea375c2dcdcc2600ca67779076977ec3b5ee6854056224e3042cf93c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c06034b8d1536b20f0bb5eae4679bd1356a1b4991d5819956a59066efc908a16">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d2420d38c68e8a04f63ab4ef8484581458611093ed05264cda9fb03afa386ff4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7cb6da8ab4cf488b09a955c2eb4016699c2f7bdd2ff3b3ee1b64ceb385f9226b">
+    <UID name="sec_container_1.android.media"/>
+  </HASHVALUE>
+  <HASHVALUE name="340b71a781b16a27d03614f82849c4e1e3d2503e880964e0074fa0b98048d559">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="84d3a0ea093732db17bea1c66875ed32d36ade2b17b107994985a573d078730d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e3941ad05cd8a98a74cddfc53398b8f4ce177ef1697604cc381b84be495330ab">
+    <UID name="android.uid.spay"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2baa87239900d5f7545ae7f58fe37dceec8a82479479b4a9398072699ba26e67">
+    <UID name="com.sec.android.app.healthcare.ipc.uid"/>
+  </HASHVALUE>
+  <HASHVALUE name="a54f867b490b97a6673e602a1bc16347f1cf8dce46d22aa6c0ff183ebf84f353">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e7bedb0f5790d0efc1cc64ae63d267a65b051a354f6e07429a09322ff7aef00">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7fa54635cfac1f8dc86330baed745f12ef484af050531589af93aa2ac82169fb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="64c6dca3c9c8c97165e913fc75418dd1c8d89dd35c23598b1c8ebf0715c16315">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d235837dba4de3d143026be8dc7c003bcfec59821362447845c679073d93bdb3">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b7a170bb5c8f363689c00f024874554a1ec5b0b6ca9c06dbb0fad29634a1568">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c701aa269e404aed51e10f430321606ccf6cfc9a06cacbcdd161b5d4257c46a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4e8f498b721b96c415fd1d256f34c06b3f258271c7d510290a3d22ffbef2f267">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="439315f6d74956e2344aa10e9ef4c8a20a05bd6be14e34546cc17ec061fcf2a3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ac55b674f911293644d36f32983d2ca31b93fa8fb3a81ae444d07555d1514c6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="99a30b50f56647dd8a6986870733f71540e8e406b9860a77a10048164bf955a3">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d3f198eccc1645890468de03e7bb75b3ecdef60510f2154b9fc4a4b4cf0bb304">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2224bbea7154647befde9dc2f7804d9b40b7e46ce22f06dbbc403fbacd9546de">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4963ae17de0ff8bd2e1f7d249e99de83100461a9d3091b41c5c29d615fc4cfc4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2ffa73edaabb4dec461398f33da5e2757776cc1c1fc7a54b0f3cc7594b5874b2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7a26859f3a985727ee134f93ba8ae394d2582e9bef4b9c60a3a6789c8b00690c">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dec0334531256cb4d0836f7e75161e112cac4870fff41a24202b2e2ab27237c6">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa94d2ec89036d723df44370f4133ece6c6409266b63aa6cfa9fe6d973fd37af">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7e64333fb9d815b3641952a73b028ad15146f1607d80bf6ab5eab1b224318f80">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f9cb6936f46867fc00a84dccb8274359955077477d3d06cab8da7955d74ee97">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="802c00779fd787605c439f2c0d4954dbad95cb4cce0a3d85ae03be5a53a1b68e">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="10268426ef5c276ea5e6c410b98306eee7f958b0b9f58fb4c413d1c3147b3083">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e21f6dea877383d7a865f899f4cc4558c0ef3205c88787d6aa20b9531e04a18b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="702930fbbb71199789ea2affa1b45617301d89bc08402562f0d113e73cd1f9cf">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ed9fc15736a5741a70e9d1193d25cf19e629f5d44e201bd5e4a8ceb93f3d944">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7bfda6e96d4f36f70ea71748bbc3f17fa94e79a51f87a2606e054e35e428b6a9">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1189ea9c2aa4601314429cdcb1606757bb6aad0ca7c845e1734c42f030ee9081">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="00edff807b55f3b2bad93f5a0fdda2bd302422b04a97c63a01d0a1e7493b7749">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c2704879201b0a642922feb00785dc6e7aed6b2e4f463acdc55251eaab658f36">
+    <UID name="mwc.demo.net.soti.mobicontrol.samsung.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="23fa894aa019fb5d15cdf7830ae62eed641a4abe4007900c205a3ea9c8cdb8a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b2d8280b7f9f243967b4c8ce04137a8fa493c5bcb1d5fc92fbe972b246fb13e7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="788f0328ab585ded9423812fb0e3f0c8f1ef46a2b6d0ee0170c17393da00b505">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="df473b16ce040e8186f29e33ca06c0bc70edbbbd797aabf51783d5863404baab">
+    <UID name="android.uid.nfc"/>
+  </HASHVALUE>
+  <HASHVALUE name="40b9fc7b22845f1ed1e3378dc6d1fe5d023afab3d035271798ff588b53cead8d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ec62c1d98ced956fdedadb81c1bf3e87883f813eb12d69cd6e5a6a33da7b6780">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cd4e3d50f2baffcd967cd718f81ee0efa1dbb76b97442e245481eb072f676336">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="16d374fb9395c3d8b031737cf929d4fae878f3dd5a91d9c32375c6162cdb67b8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="812a8acd1adbbaba8250598c5afb7ec2d3dc284a448e6b15529c1afcbcfbd6cd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1bbf1921f9bdd75441fa1a4e3ffe265c07fbed3cd25e4849bc916669662e5290">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9fa402199eec6aaaadcb80173dc1c8623b1cef5cbb63fa85a1a62ebb62df9428">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cafd784ff9318c850830b8f776e8d13e7e5fa5a5f404d24b398b5829188f7887">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7d3c1303154760c2815441fb3edadc51163947d480baab4fd1d0e296ac1b2948">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ef6109060dc918b2da989a079a73ea18a99a82648039fa8939fddc019816f86e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6280e8a2f80af23c951135bb1ecc94a350e84a869f01526635bfb51b05c40703">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5a69eb80fce82e4d277534943528f1cc0beb88defdc3925b9dff91cdf237f90e">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="8646e2674b3db327d65f450fb78a5a2b249ed0113ef9ff26a217d934432a913e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8bde81b0e3099e83f63bd20a7a12018b5631f44176c1b54139dd9e0499e64dcf">
+    <UID name="android.uid.wechat_wifiservice"/>
+  </HASHVALUE>
+  <HASHVALUE name="4a382126c0cdce366048f8838e684c9f248f1879f0d1b7661f383dcb175a28aa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="53cada6b95d1532e5ea2fe8bb728a48276c2f3caac626a845508574943ce00ac">
+    <UID name="android.uid.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="3bf8a7566dee4bdf437c6a13951fc6b4f2c32151dbdb15be9683291e943b868e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9b0922a292340c6f6b834705fae427af967bde400364f88979392e59d3a4311c">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="24963cc87c0774f1eecb67671d99fa1fef25defe09b7ad8fc382ecc1ac522727">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b0789bf968b30a0aba7d91c5b6b491eae2ae845a9aaf60946ab9ae3411673b71">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7e976957bdfcc8c992606611c10b41161b8aaa0c368736d6e92010a1bf4cb243">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b7cf638de95ceb97500490d01c3547a09279511c3da596ff98bcfe19d38dbd17">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="87e422a3fde16c8e0b809b7c1dc07e822d20ba2d2364e91b130cec71cbbf0943">
+    <UID name="android.uid.systemui"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="034bf141e8f64935ba7443cf4eb7ecd31ed3a087d4b88d384c6e83029739a721">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f0f90073f7e84a7673a32a36ee51ef5a13d7d07a40ac612eb2f2364c69ffc670">
+    <UID name="android.uid.phone"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="78c5c2088e9c76f059fe497e31a8673a3910d9d86ec1fdbdbe8c1db794e76da3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ecfbb569b6c6ce61a2160aea4ad5d18410232cabb06f4c012e8e993e4139033">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4467edd6716140663fcff461e80e9dccaecb13df4550702abf40e9908db39997">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b286a49e19df7c7e913827c555f046b0cfa273146b360a48923ac787d417d01f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f4d670ba0248ccf5f6cb985a45a3f7736929c16752499f2fc7e4b0490c8a7afc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="513b3d7e62c601cd16851731e163cce28666c4d610245dc91e3ed68695521512">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e879f28be96129f0f6471b2c6250f6be2c91867f31b0c43061b1dacb92d76af">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="42496d31ef1374fc8e0cc0d8d1720f2c8a614968a098a0a2ce12969770f2bed0">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="43a5deeafe0ff175d9218eb3dbe929f72629e75ecef26822e96ca683c5b56287">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="abfd099db2aa4cb6714f1f05438324a81e4bf4a9737f0dce583ee35e27875a12">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="21ea1dadaa1e47f1b4df8abf33d32260084cce9a55091fb1f74980684be093a0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cab5ae0fd2ae539c0634ff565f447d56ed9bad454561fdd09cabab9d60412337">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="491a5f6f5e045adc9003ec3110e9c3f0c8ffc6c981b8d58a49f44a7ee8f69b49">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="69ac8da2a65eda674d57396450cdb3ffdaa0fd23db56274d7e559d9fc0b95d28">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9635cf44a4cc8d00c92f9ea03a6c787c41ec5a493eb94f651de6e49d550c91f5">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a0c52ec21e7fadf8e3020b3e1dc11b7f83ecb2ad4d9265fa0a7a652fafc7025b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1f92d37f24a9e723a1214e659a392be84816a0ce572d3c80a76738462d3b5bd6">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4c84e339d6311e436829efcc49ff047cd9d0f75ae9b97a7453b7913026556ff1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2976d90c4ec8f3bdef0cf729b0eaa162407b21608d17f4ca6f160b733f7d4364">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ccf6ae6ca056a91b6e1fadc7238070288b187b9e3ca51ce2d2b8463e4db2423f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9083a0d16bca35fd22397861604f057dc88ec741b851fd02a933e8148dff1ed4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5613efb9b93cd498e4bf8e6043b72a0d2d655aa99e4c2f293e09d834aeb705bd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad867aa0455a995c67c588cc59bb126a432bf09dc9d744ab75e4233ae15668fa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="361b4add66beaf8021ace84002df6191408c7b3ae458e95de724a64d5fd6b167">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7d9b9a2fff84de480ee7618574c1175b43387481f5bb112aa744f18aa4b10753">
+    <UID name="com.samsung.android.uid.video"/>
+  </HASHVALUE>
+  <HASHVALUE name="997351d89f6c4181556d4f54f0a10bc91347480b8c1147ae749bb2ff5be46bde">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9522bcdd520999fe17ed829f9e6bed1b68969388327062e6f62f9f609c283c0b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="818a797b665aa0673eb4ddb32c25c0db1c3618c2dd36379b028cc7a7fcbad48a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="89813f38327e359158f47e4c17793ead40632ebaa73f9e6b9ca50ed7397a90e1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5fc61b9dac7a887b98ffa77ad4a017c2f0a4fd42dd6bb7747f156026e171847e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f3230a9ca6faf37e9cefed39eaff7348f3bdc066b4446bd0abec677613e67d91">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8ea48bca795419c28e9f1cd181c030f6edb013c5d17af308e3fbdd1effbd373c">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e2845ab62c81e3e9775054c036deb2ab87f978b7ed83579b03e26e92b9b296fe">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fccc3e0456034114cbfe68d807f5eebed058ff5b25ca4a7e36e5af53cab8a1ea">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="61e4b3cc0e9af9c11963367973efc308ba34cc3b903e1fa92f915c3769ca4846">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="817922a6ef3d80cadc01399798af6234a662403d0b12e32ef3c358ad36e3fcd1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="470cb6c767bf872de94e2336c1209a117379760f5705143a7437d326557886eb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8224bc9ccf10f46a59900170e2f2af709fe88bcbe87d7ebb4d9cd0441c5bafcb">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c2286fd5b44ffb1a5ad9e664da3271f83383c74bbf5edb0b0c8a6eef2a003233">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8ae5be3ad0ae84a5fda0d8d82c70d8f21c935cbe0ec9867cc950fadf3730f97c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0780f3f92711e75104897be89ee82696bca6a959cfd76da7047ec2d7d5e261f0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3051a79bf1f7dbadea708b6788615444c45503c80cb204daf410791b91551ec0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e35272d4df39358f9ac2281bde0247a2b2ceae11345b0d8a5496a4de7ea13963">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3e5f6bab9764d1fa691c69b4563da85b3e36048fcda00f8a0f40a9d9416426f2">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4fbbb85b50882486c3651c454c56185acf469926ad6305a18c3a7ffc10415abe">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="fe124116ca24553f7455bd41673289240f84f8cf8f1073f65915d7f6a9742d31">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dc6dfe1e9c44bc8d6d7779f4dc3f7bd6281b91c9f2c9860fdceeb432d315d734">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="37051350ba6208eb974755a90f5939cb97f2f5d65568103a87f29d7c045987fc">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0d997abb52a1ec905465dcb6ec80c7bda2e7e55180ec335cdecbdca0bf5aa74a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="aed97474dd7dd39468e3a0e90aac3e77e1d4f00cd5697a2a12d5f590be109f54">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8f89f1a1b9e3dc84f18e188220d8e615584641560f429b65d0ba56ca8a21cbee">
+    <UID name="android.uid.phone"/>
+    <UID name="android.uid.system"/>
+    <UID name="android.uid.log"/>
+  </HASHVALUE>
+  <HASHVALUE name="0176065f2e7550f59de0309b190d74516dcb817bf1ad09f37166edaeb7b7b045">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a0972eec48d9b118b3ff168fec64934ab87f009e9f4cbebc014b8ca824fb7743">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8770bd754f5943cb23b4e2a287733ddcbbd97ae1c74ee534dc1cc56c684fb221">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f10a78f30499f4ff2c8c848bc9b268fadc5efd9fe2e923301ea8d0b0e50c8dda">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7c70ff584aa8740923e694d125e225d5a4ca35269ded05c260b06c0283822869">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="15761a2e7e63364b172fe0ccd88f8db887879788b2532d2b8e323c740577017e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2f9ae65de1dc79064b14e8f3f822428a3efa55d0e36dca4dc4d787d2fd2a0c00">
+    <UID name="com.afaria.client"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="636a76300436ae19f9e54ff1f850382ebf6d20bf47807b1dec20c50205c0f894">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="752d37f66ee3d6c9fb14e1d3db38755be17768680088f8fe9e682af75e76cbb1">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="eb5c35e0ed97782b036b919c8cd8a1411b3b13058dcd756a4edf0cd1121e9ae6">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="dee73ed7d2c7b60cb79aa2bd62575db1de4567de05cb620608bff68c94fd22c3">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="93b0669409da742fce77e811bada268330117be09caee81018ae81be59773842">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="87b49afcc8f9dc9c9df45755b0e8a77ef5b79e60d4b78f68aa393dfc7b58dc95">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d35ff4f3073f809c36d962c886d37ee189a1ed2fbeac5329510177edd6bedc98">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="011b5a2a202b29856db4bff4024d5c38e91aa7d6ab4c6e11e0e4c57687d000ca">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="34e9637d13e3f6a3e692d5d30ea6a12a136e1b0de8e7ba36d9cadccca8fc06e2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4df873b6e84b6fd4ddd50321e544269851fcf3c791d554e63502248a65fe2e89">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a663f22b9d6ce4f7bd5193b7f8fcd477888f81373d4ed5dc19d11c1ab9f8912b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="82873db217774a5e7ed461353cde6c61826b209cbaa850184496b1faa908ef17">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="729b52fa6f2b1f0416dfacbd4a173c5747cfaa61b25fb309ed0b62ef085e945b">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="351d4d711af291f10dc03ecf3eceef3f7aac858398fcaa6eacb150ee5f6d7831">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ba884f318e769c6b9824368ada8a058f1c669d6f984ab68e0b4217dd3f9164e0">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e1c457314bd043e7b05624b0f4066ba478091829a157bc69e59d5912cb100229">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5c62ec503986cc1f5b92dbcdfe53043080763f1d67e657bccccb63caff08cdb4">
+    <UID name="normal"/>
+    <UID name="android.uid.phone"/>
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="c5663a7e5390c3317aad4e85fc0db6dc07cd97d97498706c78158af878f0ac84">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ec9c1fd6552c3ad94c6cd7bf7c2fb5f4bc16076c9898c66e66d5b4d24e5afb77">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b58d3d171e5a26d7aea2a2d767a2648063c499d108cc37236b73e23c9abe92a0">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="766af4d19746bd587a8cd44f2555209f710355808258df2e92025d9e75311398">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0e991442913edf6b2f2352f1f0a980458f3ce17c8ff83880e89e226592d21f2e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="7a52c6c5a12906c0e0ab02d58b36f4afac155e090bbabe4b4a21cf5ec658d341">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1741604660a6b52290461868f2ff37b0a13665948a0352891ec2c1308f8e112b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bff86271f1c12a6a732d40432d7b4db8d9a143fca8c7559d6f51f478c8dc7be2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d2b5dfb87eca801bbe114cda91071ab4ad061c87cbad129b1ea406af389662df">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="909c8dcf9a8f37fe06ab8d71eb2f57305332065d0df97545b293e06c4d5bc8e9">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="853c3266b1a0cfd06860a92d7656a90e061c7d6a0030ec5f53d2f865018415c9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="643c5802aafb7843de6a9cc5ad3691b672bc39fd1f4bc5f45dbd2775231d72ab">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d949bbcb6529c9161ee2465cf9b922c66263099e5c2f2fb455f13bc49b441e12">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2820ca5f61dd6b4a78fabdfe4952c15246c07029db63f09f9221ac79fb4d95f7">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b848a30562912675b774cc05aa9d3286aba5210e08e5f078a8e4b8bb83ce37e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a53cf4103f06f5024280378ecc6023c23bd5f4b6da095bf76651a06d40081b84">
+    <UID name="com.orange.sw.update"/>
+  </HASHVALUE>
+  <HASHVALUE name="59861867f9bf156201a6befe01f8755222c5545e9e0b178662d24574ebc94435">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="59f4fcbf02b058509a148bd9b6ef9857572f71bee51849708eadca90141540fd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7d032664b00357d30b082d5ab3b2c4b792937ca7269cd6daac5a19171dc3c197">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="982b724b6eb6b90e856859735be641d61590186f12f10c832862f7557fb39e75">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="61888947baa0bd1ac1288b22271230dda9c084f8a22fded893f0e45e96b35493">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5331eaac46e77a0d3de33326b58fcb2f3b32003f3d6f898ba2f068eaa2484bd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="853396dc957cf87c59da4e7a1f3081ab466242ed5ccec959c99bf34d1cbbc23f">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="be629e1ed210dd4fad12ffc709e649b3b61fba1441e0ad5fc089acbcc0fe2837">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="58dd2a11ff2a78d901fdf66fccf21a39063b8a09f49a5a8afda0a6b67bb5f425">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="372f44a3ddcddb474e1e61d771811b6c1c7f94752d136db6b00e406ba964df55">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0fac4c40bfccd7c2aa2d3ebe5b1d2d613eb764e991c7501e725d723d82f24015">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="ea363da6953068da00a410ec65fd7de4734e3e0b8618de6b94ee2681370ba6ad">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d631118867753586cb4f02215274bc868d1ba05af2f7d3941ff91eb3a354f58c">
+    <UID name="com.psion.mobilecontrolcenter.samsung.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="432b51314b6b711e18f79c5cc1d1a14835af8e64d9c8682d762c574788a9c4ae">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="73849d1871d6e39cf749914eb6a053d9f47c2028e9118a0c6300027cb52889f3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8ffec90b58ea26d306dfcd8b506731c2bcfed6b25cb0e1ac68e3177817ce0f8e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c516aed9bf955b024761a67e67a38aa0dab6234ad3f1d6537016881aefb964b0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="49b5754642a7ed33a3b0790e2743f572a79b60470c2e3e46301b4c2b27569b35">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b2abdac8bf34c050065e6bd8fbdf3ed05dde9731bc346efbab7ba803383ecf03">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fd85327fc97b8a43d4b4ea6bde648d44c094cadaf8b8e6591d5414d889979bbf">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="01f86e016e8abffd0da5985b286a22a85fd188b4127ceb148a0db84a0e3ba681">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1fbdc07bf8b99c3640e45f9b6be0d863304aa8d60cee35628b0ab10d2db09be9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="70f7b44f3edffc8b6cb34eefc9d755c54dd2d9a01d59fb8e7770d4823972de98">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3a2ec03d076d45101b89b3df9a819f0b7ddaf45d5e0a55570345da9204c66d0b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3d278b6adf3391aa4fc9b64f10e77a422a0539a3b7950f9a3b95405fedba6a7d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="29c80d18bbe4110224af107a861da8b99ff9c468a1c4077fbfaea4ebb18aca66">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4d01518e58e5539f46a03779adf115449ec4275246c0c1e6b3c69a1b34b361f3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4e9f9665daf8eff03a80b81ea5defc690d81beef6421c612443a29e033079a69">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2a4ef06e5165acf63c3b94841e244bff8bfbe4b05025ac4910b9e898d27010bc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8aae69618ca4e74349675d6e8eae68a5c469332ed96bb1ee94beb1d238c67f79">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2dbcd0a8070febc3faeff7d6431076a25084dc0340144c4c79efe590a787e36d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="66e464a97b9b544aa17a9c4ef47e0a6960b9ebad189acc1e5109a300c056efd8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="034b02906ac0e4cc70201c4ccff67f986296c58c7713713316a792fb710249f6">
+    <UID name="android.uid.nsflp"/>
+  </HASHVALUE>
+  <HASHVALUE name="c6a4bd6c44c2405859cd3b1667388b0267d82c2e8b9661db64533cd43d1ab880">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c3a5a2e0701d4018407cd7b760ed1db10c907a8882261e91491a8b78de1893d5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a414e45e1b84e7d2f02f5d52d6017ace1384c935bd9c8225ece86a2229c4d8a4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="18ec628b4dbfa935f408a3d8fca6944f306f7011186f21e5f8cf5c963e0aa763">
+    <UID name="com.samsung.accessory.watch.notiprovider"/>
+  </HASHVALUE>
+  <HASHVALUE name="9bacae10409193f51fededfd569763676140869ac0ec170ace33b14eb44fe8bf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c904c5526d4b70b4540f2c11414f04b62d7502bd2918690e116cbe807b3de41e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6f912788b3e1a68696253c0d6b012eb6cd4813a374775b4bf73f6733ac2f22d8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4ebed44da927ea82728e10109422be2d9f698c069bdeb0463d8a789f32fcbca4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f006fccd60e0b18a59230523911f137ccf6c3ce6ebead5a7d706f68d330fc2a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="45422565ee3169e9be9edb1df8be7bbbc59ec2106be3ed12cc30d928a7bd5bee">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7f2f39a6e5dc54bb52d996545bf95b1e98068f515b5ecad600e32ee0c1e04891">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d69715085b124dbaa3ea79a9dd8db7ec115e31ba92852935751bfae086309346">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="33d8b03d819be32d258636bc00d13244d073e13f110e9d3320adbaf970f69f7c">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="407c4e0818230f13fa0ceb99516fc82807dfaea967f9f55df2838823abefc7bf">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="65ff4b1fb427ad030ce5c1231dc1f723378789b04e8e4ab3db79e018e5938c16">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a1f77126a39b3fbf6edd295ad7f2175bac8a0f2f4de2142f76733b165a4ecd70">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b2154b4e48d326ac83beff7daacee260b4f79b14e8d53d84aaee9c79c12ea53">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="25516da05941985a9c21b44a84ac0f09e724f4bc966fb981c5918ec9e3bf133d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="26ece4273216486e3c60cbfe54c6ea63a03b6acb93856253d2ecd7840714c988">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a15337c0a019aeb5d5442c9ae02c3ad27eabf3c992395058e32da23a350c4b33">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b9cdb8cac5e75798a56ef97f889a16dea22d1abc4cfa56b3c912c61667f40b6">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="527e865a22ef82a740db1354dbb0de99b41b222d4f190ad4c8d2793861027171">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="315ec78cb408d07f1ce684bcd73cbf0448be7eb75fd48982ec927f5580fc1710">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="76b3361495c5875f3450ebbed389e4b46d6579aee1d43be8cb9253d4fc223c4e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0297c07d8003cd553d5b12603a4f6195886bd6bc68ea7ad590b50c2d111d55ed">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6a2f87690f4d8dcbcd0a60e234b5ea3447a174b69097011c3dafc4ab995aeee8">
+    <UID name="com.samsung.accessory.watch.notiprovider"/>
+  </HASHVALUE>
+  <HASHVALUE name="a795392a4dbc3fc69ff5b59d98a218c3309f8efef2fd350c00c677687d61f87c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="680711966f2a145073cb3637dbd5347990159a67457e8f804baa3192a5b45784">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3558c3a93b1a82f15b7bcbc5b688cb38a0f5a568f340e15369a70d7faaa6835b">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dbd8b400270d14a417579eaed7b7e9814376e69ce8f2ba2ae5d1a49eefd7a473">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="28daac10fd6fffd38ceb689c24f2155c602b985ad0567c09e1d70826f147898f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ffad3b96ee83860a7879147680c7a8921d94df113066df292990445b8ca5120f">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="89946a47fd0e2eaa4db7912a6302c2d49268b161e7c682c546a8dc57079e5a53">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="87657a929bee25c2df9a72d181870df55e8db17e547c067a02a7f0e9d48d2bb4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="991b934c0289249d9df66d1ab88ad223d6edc65561d1f40b181c6a963e3b705f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6418c833b41fcdfba47bbc1076e0a0d8763dde2125d6f47a3a7423efb68ca6b0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2840a7ec6e6d35e7227eae1124572766245e3d3bb9080c50aab7578cf50656c7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="770ba79a5c6498b5593646e39316baa9cb8dc7fc902960cb077ac5d42f3ca2dd">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="277a7c6c6a1bf22576fa9d08352dc65e8548b789febcde1d486b76f5a33844db">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e4dede31d33ea3b4aa40693b486cfa720fb10ca403d6c3b47005678d02bd21f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c77a6bc82fb3134ec25121db35f15feba507b1d750323416b467f8c1e66b450f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="69d579a61315951a4b0d4b66493ba36f9006622880f87ba3d18e0610e9e6f48e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="97d54ac3d04c067af07fa9f30240032fbbeb2f912d1c0abb6f309282cd420df5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="56b353f975e5e267806e13b3b5008a717f014c0cd376ebf2b4269293b728ac1c">
+    <UID name="normal"/>
+    <UID name="android.uid.bluetooth"/>
+  </HASHVALUE>
+  <HASHVALUE name="64312d19588fb355d5e441dd07f6ecfa8dffbc413d4d905eba3cc8425ef0f3be">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b8135eee7d83766cc4077af48f78fd4ca39916f3b8d90df1e952f4840566ffd7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3686f1aaa79320ff36f204d0091da0afc543684da9507ccd413e2430c6d08c59">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b1b67b702c328b4489391e8326cf217de5200b99b8802791101f0266fef7a10e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="2ca0cc023d2a6a5a0fb9568891a0accf6391e5d88029c7800029dc2897bee3bc">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b24ea6b15750c089b4626e1eb3f72aa382eafd30679d468c47c3c5c65b7ed2c4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca112ee68778bd1712d44e2b75dbcae59cff3729f260bc7cab1feaeb164f8f6b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2310d3de17be4de7a17da5a30e521a883a3beac79bd51b16571b35b92bbd2fc4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b1b935a4b6ebec2c6784704869938d96daf7d43be2a0a28c680b464d7ff1c216">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a94dd6449b4ba12de658e02532a4dbb9c077585b8e030fb660736ffc2e5dc19d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6d7369d9ab9cb7f83f06d907819062090a41681c6cb7ae508662ba0a809bc2ee">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="41ccd9c529923952e366f4ac173a03594fd299e23cc90edbc12ae45468f4afee">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="76ff8f263a9f9a8e4513c561c6c9720198523c3341ed29c7989e2af63c66329c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="05524c4a35185be10840d623dc144f070e549257fb734c17486cfa3a91f416ad">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e7673b6d67bdafe064a8a8d2c9d93acff4605d15cd5fbdb7158f2a81a63b610b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6bbd15624f99359b317df178fcfad69d9cf0c21a92c2f6a64fe3e5def706e18a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="191d60eee8b4b4a751773ac83c6db1ac0c74c611b378515860f0c5836461e32a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="e24d8d870caa54c94a5ab2fd5aafb2c15ce7998659d892e4759ac0a565673999">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cb2c1aa9db5db2431143430b237496322404702bf0284255182f0a416ac4391c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="245aa0ef6d6028f5b8b1677ac60376e2b8300640801144d7d7d74bfc182191c1">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4777bf8f090ae8f8b46eaf5dc378df983fb423c982678f1e54ac9cfdbfb30c82">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2da215132e066956654f98f8ce8c46fc2e94f8b546d120c6ccbb4f485a2e0f6a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="703ff9029a5687b8349a40c7004b3913d67ce82f7c0a842605d3a5857911b892">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d68cb1d3f6e55b655e1bfe6b6c51a9abd49ca54364ab70caba4d6ae330ae4b44">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="26e4d7691c365c9dfaec8f4bb9300e1f72db1e87c056cc60cc0c9993a277acba">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="eb994d948140712b5291692453ae916598b6c135889b1e0d761fa98a73090558">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f46797d40dd19f8f56dcdaa5551d8cc8dbaf4c282020c91e2fa0ebadbf1cc88f">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="565b5d251446d0851130c19ec8533efe8f218c72ee80d65147fc6c08784bcc93">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4aea497cc2c8a3a6922be88a74262fc3ba877a13279a9836cef0354be825f3b2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4b467ae4e50ea13bbe1d9bdc239646be3511693b9051d07f6223c15d348d76bb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="796f2baa27d99d8ad0320dcb3a21bbda99405996dd4232c9741b8eda164555dc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="093b85bf94ab05a101924f66f09d1ad6c5e102edbca11556cf6d6324835deeb0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="37021da0156b5d3687c4aeab2a89e45ab6e1c8023ef5db1e348c1d3625310d2d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dc314f3ecaa79601dcc0c919de151198bbb879e2962a477138dc4ff5d054a0ca">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4befcf4b83033ca9c9cc136bc4b9f0831bbdac73d5546cf03adb9937a5f94ced">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c988aba46faa406e534cc9926ae6309a6a83463c659defa9786d2ef6b1b221c3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="da58d660d8b0cd6b012e98ec1ea30136f06688e9bf700dc85b9deb63f5631901">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="75dc35371fb34823291342c43b336b46aa535236e479fc81253a54327f4d18d3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9e247e1dc57ddd00d31bc70e5db44a30a77d301e5e02d74b8b0e2458a830870">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e430dfb50d3f4ba6e9b41ee8737ae4aaa8499b06b6828cc84ee6c33d5911ad4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="146824d0df2c1a56cd22ed4f8273e72c5078211d41b2118cc6e7c52934e79646">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5bae03093f243c4de40934e873ae5ab051c8bae90880aca7c09b2b480e990fc">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="924b8dc15d0a91051cce0784f0b4ce68ff6b52ac3c8497a605cf3b1acbdd7420">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f56f121c6cdb3835977855ee05afc043020fcdc1cb1d6ec7951ff64477f34fa">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="7d31d1eb2d02103454a27acbe00cbda3b1c18857bc91f772729528273afc4d54">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8bc7613a375dd715fb2e66559be978d7804cdaf776c0c44e3b435753eb6a75f2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7620d5aefb99307f343c6939b0b60e89ecbf600330f911eaf5ad83cf0196615d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8961d7f48aebb606b4179100e537d2ddd9703c002a9ff8f284b0e72783534d0f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e0d26bc2c416ca1e15e9ce3e3a965361a8d79ac677f0fb619016a6dd59f4c083">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8b4e454b880344aef7593b805cdf9fcec25e76c6f990719960976655bf634f7b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b15fd4e12828757a3745b302f054f21f1e26d9453e4f6130d2dbfd855b24fbd">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="51e8d6c44cdf13510a9c80df0b42b5a07a3a4e52d23acc6cda930cf3d0fb7b3b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2850e77f3fc129d4b4c9a2d196bd7611bf8205c5386b8bff9ffa95a186f18956">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="c39a590c20ce9cf9e1943ad5e0881d7dad13a0dc3763f3b5dea8e4f8b0c9ec6d">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="89de321cc32c351ca9b3bd9a3cbb8691dec84e74c84979c3f7588ddd4f23f53b">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b6addb8f6c4cd49c591dd251401d33b0d168396d802cd6f2345af8be01ce55c2">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="94750b177a2015691b9b17fb11f81740b99481bc649e63dbbcb357e2e4fe4374">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="04869488b2cd65ca33c70534526734061dab6479038306fd6d89f288fa860771">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1a83263ba314c4d4c0c9cd5cffc66b77d2e33fa5f787672b23841f7a4e21e353">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="59ecb6f95041a5fd68fffecaeb67fde408260edb6437bb8a95ca24b3f8d78934">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f52dc76d280b8ddc424e9e73b2ba38201d4bab8c4c6b88c647ef20674018ee41">
+    <UID name="android.uid.graphics"/>
+  </HASHVALUE>
+  <HASHVALUE name="e63672fad193b4c1e51771b4b9c0f149688d3063729e26b011ed649bb3870ef2">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3f9993d547b7cd1525e78badc74b7bfc11c01ee492b8fde28e5cb93f312d6d54">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="35d0254acf2be46c9fd37d035edcc3a576519db55a1575e76542212737d5b0eb">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="0233ced49ac9bf013ec1c3c1dfd43c2e5c94f3a2d08877c877bd67d61a3985a1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1d1c6538bc2373d394c9e88466cfd836f923203838052cc274d3186d318e4a87">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cdb338215bf3cdfcd7b85c879547657574e9e18423f1b3aecd1d2ce437ef0581">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="414c98e55e587acb582bbca9d8ad1cc2252e23a98dac3ce3178586d8818d71fd">
+    <UID name="sec_container_1.android.media"/>
+  </HASHVALUE>
+  <HASHVALUE name="a3367df82e18c9fd68d12e47f882a61ef044dfe21d0259734d64758ad757bf58">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c8ee3e7de4d50111265720fe3aef68dac02d2f766fd30da18ef60484dd96aebf">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="02f7f6b0059fee902e4f1c416051dd31f87380902d770f4c2c97c3095ec6cc77">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9b53978e9ead2f12fd0b9e00b745a5ec4c20b3cc2ceb2af21937bd22e7e4fc8">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="33fb3b498df6cf0161e40b4b1479c5d5eb1875c4eed705c8d222ab1a4ebd9079">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ded09cde24f45edab0b074089c5abde8c9e9e504e92d60e4c730d10f5bcd2b7f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="53db6f813490319352097753bc89181211e4c772e2783814e0feec15c4b49841">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ba2c5b383192678c0659398a85497ff491d28aa49fec1ec07774d65e3d453510">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a248191d39b2061bd093a6b5b4fd874135857e52b7964338bb64f29e03a6a746">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="abf5b102748ddf539daff11a91ba228bc7b20339223bff0dc4a173218e5cdb8d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f240b71a158ebb9ae7dba00b24f33d4b0a17a105a1af0f0cddc6cb07f44203db">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="305c41187471cc7a6443c81f75b4a9f4f906406bb4866fe19faaea65d9c075c2">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9a0956773c8e157b9badd3fa004e81d06bb970efc7575e9e4b4b0a132a066b4d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6cadf1a684ae11873313e348f877247ce98f426f5ae1a5e9fd68241170bc756a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bf4f8f123626ad682a737af2768a66b4d9516c0d59ab9615f19336a9b9c27721">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="285dd07911a550ca1efb24d3cc2daae30c4ddb7dc5dd679f6d65ec7c334677f7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8487fc1afd1853e25de9961ab5d8697bef333ff25a312c4e983885aada8b04ef">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6759f5aa39ac91ebb64405d884d88f93efaa91505bd73aaf5b60032eb3fe6909">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="525b85ddc8dbbdacd775f306c58bab4262aa20aca215a316b1a6cc5443a1171f">
+    <UID name="android.uid.shell"/>
+  </HASHVALUE>
+  <HASHVALUE name="31c0e04c5130775bcc44123e565472b0d92ceccdd7e71d35583065d4132f49f6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3db2ef37358789762bc96508e56ec0dfec4e56c583ea791f896f681c09ff61b3">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="968416cdd0e95c3a915af6ebeacb38923875525c3a668dff94e1128457eb3b22">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c99e4f3fabcf50f1fffdaf88b5e771057492d6a1de884293932d784715835f02">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="645a50ec06f2ff60574291b29cad4620504d34cf71383ecc8ca760875e86cda7">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="c9428e132c9afa805c5c4ce5c7fcb83861623ace0465f83ebdd778dc86a74c51">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d436b4ce11b4ec13d269fdc828bcc34bc8fa83e29588cfcdfad531d0996f9b5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1a38e6f1287736109374ca086f61d96d938e5fe1e6b70392d86298afba501097">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bbf9be89afcca710a03b6c4afc8d354a73546347167279ace5b520f34ba992e9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="37a7f54f2250a89d863a932f4632344dd2c181e9cfeb3a4bac6da3ff9f1d89c8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="db279856cf0e34389f97e32e78c4301541d7c14cb3dfe30d8875219ad06abcea">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="73541eb45b4c329643202a6811ae55539dc2eab071bf0901d39d6931f67228e8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f573ccc12beac1e28198e9ae826995d4c636e4b33fb1c1eddeccda7572fee894">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6ddd054cbcf92316225e014d8ebd4ad5abc6e299ee0c3c6dff205547a34bf922">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="be968359bed5e48ab79525aacbfd7552485282b732d327860b96239a486b486c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="32552ce9298fc9a4f50debf6cf4b9e8743ce8d27fb4196c513912e491ebc4e11">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="990c5a320efbb52646f1269a3c496a6ec9ae6c9054e4249ab43e629b97832966">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="047f1fbdf2b71c741ad04177c1ffa40cba953a2e3e14def4ce9cf16831850fc8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f02db9110e9e6a9e958873e561b85bdf42157dd878002ff6d96403f4d1482135">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ebb812bd89bb340a612fee03e6437e2439558ae9f1a468601422ddb82816bee7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f9dfffe3c59a0a60148002058f752e11e65ada0acbd82e2c7dd680dc9b1b293">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f5ab6963f052ffd1500ee3167bc105de75cabcc3a8f64bcde0acf2a5d3bf2921">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="293b59203f6d7373506e0e7e0866b007e638e660250a6df43560330ef4e27a3d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a7f431e3024770e252430d6c20e13943554ebdbf8178dc1b8b8a9c296789acdc">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="fea164d7f0946d1429d8ba38cc2b45a31a93dc2cbe197b48432c8fc4f268d932">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8728eb8c8883ecd514d2c6bc985d5f86b6908374c7bcee53140383a43b79bb8a">
+    <UID name="normal"/>
+    <UID name="android.uid.graphics"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca2b4a0303c899033a70370aafb231ad63fcb1a6196681944274b9a9e09e800a">
+    <UID name="aasa.aasa.family"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ae8e52ff790fad1d657b9b1959d73c12c555cffc233d247cd1cb35386fb9f5e5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="81c780bbfd86a4563aba1a044a5cf47f82a74f7984fee46a0fcc871edf604922">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9645df848194a4fe838fdba757e684fbf2b6c0ac6ccc030e459bcd2b0b1e1718">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="612601cede891fe4c2c7ca4a9a7e21a92de1f27c97d28267132b0714048dea96">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e56401440e38f196e269fc2ff4b076d774042184ed6c9b9536000c4b81b62042">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0e997f9ce687aa7cd49e44723459d5b21a709720fbaf985bf42ce6b95fac96e7">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="99c6f35a8d2925cfc5127fd09ed2e9bd8cd254b9efabc686dd6d064de4304dc7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="17600d47a63490e640cebd2d7b4dc0c5038fef836a326a78173a786edec7868b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0c6d217e0d5a6d04eb8bc23c3b7815ef962418553152321ba1cd9d3f923125c5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c5f67b1c569901b9a3775d2e499ee2c66762d31cac1c8f7fcf290a86c06dcce6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b4cc8b761eab10008d6b85b0cbd76633457632486676989cfeb36272e403544">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="92b0835aeb8dd2def47f56a565a181793758988d73d950a1451f50e5bf818343">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e3395a4df3a0070cba8a7d780d8de31b97123077b2947cfb8c2c6b67d923751b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="ce48b850752d72447380a1876cbd02e530b16111c2c5e862b8fe0b544ad4aa79">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="80fc1430edc3de1a593f06415da608877f12c15512e9e31d6bf65dd960457543">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3128678203166e3787b5f44a45e055650ba64ebf138fe24080f3a9dce77556da">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="ba0fb2f48961f4edaadaecdd5fbbaa1121751b35b94be89d1e75a049002d3f82">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="562933217392c1f28c900a9f5a928cec06a94027d887aa3888dc9b3bf361902e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4a30912b87221ac309f6669205eac911f83500fb8a0ee4a0ba667da68a166c73">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bd3c2df64dfa2eaad46b1f0454933075afcc801e7c736d38f27554dcc7eba51b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1aa590ad7496e8eb96f1767c015c8434c5c79f3f2647ebccbba7328ea30cc3ab">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="593741351e757db0a297a6c44ae634e441c11c1e04d27be0011d0613ba3ddd64">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4a44ff7816fc8bf37bfa0c49b78520536a82cc152dbc5d0a58a2f7afffb8f27b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1dc3a7f2a7a93d496af76ff6ceeb80c6662e9ffb52a996d75f2ce83bdbe64342">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="164474e5f46c4f3e19048d77f01b328465681c3e7842e9908b8f864a9f409ef7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dfd0dd715e3d12e724e0add97176d74c1ca4ac150d1e903505413a3e0bbb0e8f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="11a15a97c7f362fb7a9346b4fb6e858c3c0810ac97f06b47c12856b51f87e7f1">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ed90b6ad8d1012589148823f8ff765a056613e5924507ce7cfb35fe8ea6f3ed6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f61f1cf34c73c2ed92024467004ece794af38b0136e5c79414b3b90bbc62c1e2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2211c870461729e38c8708a35917726d25423c45fa7fb3239ec9fc7124aac84c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d4977e4faca6757c56198c4c2170bd23876ce12b3917d49ebbfd2ba63dbb4b56">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="02f727abc28cb3a236714feb682d0aea2f30c91e323b8c84a10d9fdfd6bc2d56">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="01cf631daf0e80bdba38228160b2ae46d3f7ba9b1106cec68c74bfc9a043486e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="59697864a44a825887bf44240445881c4f545e4c2632337fea2099b306b401c5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ed6687d28d3b40b3161572e3b828187757e22d5d17195c75cd7e0d339de127e1">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="57c5e3528eb26a4ec16bd01b2d1f1957e8b11ec620285335329258fcfbe0cb24">
+    <UID name="android:versionCode"/>
+  </HASHVALUE>
+  <HASHVALUE name="f4bb02e7e0d7d774d1a02ff28a1443e30b51162fb2f0e482bbb3d3ce6581b9e1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a9af227f7a4ae0d3ceae5b9beb7bd2886e3bf4e83522a2f01067c83237a5f109">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="969d0cc997f3adb11152e60d72c5c05063b4653adf1d82b698ee441b93cf1297">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="301d6034c9ab3ba877ac10b7442afd3e8cd15878cb16004daf12f1da2a03014c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="94b9b509767fb8e5cbd2f4b9715bfc8142c4c46e616a197ac314b45a4a273b87">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0d15711cfd93da4ab7ee1a4cb3187e00f110ef388ead52c75213818c8250021a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bf2fd30d14ff28f793d691b294e68cf6368a07863b4df8c478ef8d29d65a4d1a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="93e76f7e7e7977f75c8304a02c92112f60ea3a286731e415eb35fd5198ce7c65">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ea54bf7cc9aa19a196c706ea7190ed32f1ccd754c7b89bfe0c4c2d59dc7d6137">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3a83fdd97b54494e9123fceb2fdb807ef6bfeed304efa0b61bc5141a9ee5e6a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="165947f96c151528583554da2c78531d56e71cde44031a4c209f730da83a229b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="9c93e4f9a1ecb3eaf1f28c7a9fb1801477645dafa7fc2c1ce6128045429a3005">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ba97638279e550ccdc7e7cf6cc195ed6021170287f6c0cc282f19c2e13e4ae88">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="33634f4c3940f6d971a2ac57186288a7a7ad6425935dc3e4e1e509996216c39c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6f63d31e6fbfd3ddc33f0e8d112bab15cc055ec5a50f10264cf93fe590d6caaa">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="47bf0d73119449028faaf4bbf71fcb81044e354c09f960f371806e2bfdfcfe44">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="346adea1fd90a12fed9b8b203fce6e930b6f85ed06b7f8131c84b3af8a8f2f23">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="92aed5803add4cdfad9d033446d1c5b9f9d361ea61117bac4d1f753da0e4fdb8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="53e27a8dba295e50cfbda67c7c5ee875ff6f0b26930c7401546a2ecc974ea036">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="54f9ed2496d989b9975fe3e3c89feb878b58b55934809925254ad505d999dd4d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f9136e68562907b850984c6c63a2b7a984d01a3a71a59fed6c9b663f8ea47aa6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="425d90c8f1b49da071849861c9fc62040083a6689a018a24d6f7b2a29b19b40d">
+    <UID name="edutor.uid.sec"/>
+    <UID name="edutor.uid"/>
+  </HASHVALUE>
+  <HASHVALUE name="9d4542dfa2d18eb6023b1f66f96492c74901cabeccc5f794a5f2de12c872719b">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="58016e29b196ff855863bcf352ef31bb6c42be90b365d34b7e0a5b7e20b468a5">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="53cdc8e02215183ab675fde5f9008d72880fb5a79cdac644a990cb18b56b6322">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2c9bf5d0ceaa59068d42c986291d5647abbb4ca6ccff799fbe6dec6cfd86c0e4">
+    <UID name="normal"/>
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="61db014729a0903e9cea0e73c2a6b9af648eb9b3d77f50da4184db6403e9b363">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="64102526a170fc82873486be7a1a575dc16cf820db39dc64e43bbf4bd950ce1e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f1e4ef3c039c4079329e969927b86a9da11a9172ea7a78221338310685f0328">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="045d37487c7e566d482a1bd95f8d1edcfd51e2bd36117243ba6f890c65356be5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f91c78c7696df38ada62603767ba3e24ee41a08292f0632112ecf18fa9d5787a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d8a8bfc29969953fb15d0b499e8cef58b4a668769210b1d953174d8d47e944f3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="859b9a441ea0709b43a22db05e33c7df0bf12b4575f72a2722e9c44014d54542">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="24a19a83e8249b84b74ebe2ecebf1d7553c1cd450b560b40031001cf1bcd9e22">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1b678c80fc9940d60d4ad7b3dd41ef886e196bb633c75611a5d94e1c63fab0bf">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b242d80eba244ecb9bcb7dbcbb67219250c1d847299fda43171092654d2d4185">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e921557a3af0735a1c90825a1f8e9128e29f9537083a78e53f1ae4f8cd817b83">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5addb2b41f877e9bd6b67081154f9d2c8ab1800426989afeb625c8a82a441b2c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2e4170cb80eba6ab9e48be20c8988d5f000ae7a6c2334d5c521939a1094aee93">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="63ae266aa6d18ff722cc234083511f96c073911076f8ab0b19c3b1102561b1d3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="09cc984e5c26f6d1bc8b54afd03b8cf24f94e7981af389d06d0c4be739913b7d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="97d36150eea7ea853fb5a7e19d6844033db095d30e9e9f0e0d3de72d1031b771">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6b8903bc07510a6362ab5333a4f1dcb3025f818328f2cb8ffbf5ba1c07c2e495">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3aa99d603ca1f909e1a6431132b7b7b06988af183c2621949db411930280073c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e31739f1838f9cd702e10d2b54a25ab6a98ac8211852d746dac3ffe06fc39cc3">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dfdaf4a5abde18666c3f9652263b7c2e06ae58f9c041af1ab785b3ef8e4be569">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="424054adfda2e7a9a490766146c88a31a4d52961419988dfe6fed12461c6bbf6">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d0724795efd58a2a80cd8810bc7664123734a24002adad669a0b93d43193d29f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b1d66b1966a921d1d27e2ea41112fe375e1796ab2f3a0ec315ef49f5266ed0a8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="14903c50ee1b511f75bb5d312a1585e09d320503e20f06e4756ed35a055531e8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6fa5160e38c80a35e72abb6be916dd3e792b4275e6625a01e3635aba132718ef">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ce361fba8b69047e598017a81070d2b485ba28da02113d07dd6d5e920bff2d8a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="47b9079f4506603c816c156a071fca98605b85d006bd20f924b1ee99b0d164ce">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9a807ca31f3b08bf8897ae544decbf85aa129f947c7acde1edfd240b0c8cd9ec">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="85df2e29afd24fcc49643a48fb48459b396a3068da834f06bb6af8538cd2a6bd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fcbe1b67575c6ea96b5337987377fef4b4d90bdd0a280437f2e5a4a50b6b1bba">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="169b76203016ef9ad47dd19946d03294868887bb9bf117956aec18cae7100bfa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="98babce4d0f860f337a7ccb32e83b1e8fd3714720f2a9406191bd311bb2ed6a2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="90f497fba027f95d608fb98889179952a08162df11abed194790116ea5d0719a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="415b0b53b866b259242ce1034034c1aa0ad26c4ea1f8640a760f73efc303e74b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="436bd38af22b148908029b8f08a55d8e18fda31b8a8381a825df0cdb4c7a3709">
+    <UID name="android.uid.shared"/>
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5c890583a8bbaaf42e4a5d12ac200d65ac38e62a7921f6210fbcb123e3604bb7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="fd460a1ee0a3b7d9a24e935d40b470079c17e97e0d5da56da18ad2618990bea1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="45ce8706b9ac7fc2edd4a5f618fff63a5d61588e15c065a9b8e6f4e442b39fa7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="436f8c7cdd14a3ecf8eb8dbabd3d31101b8e3b2ee2f95ddc49097a447fdbb572">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="310182f2bdd23d3e0b9b679aa07e3333fee1c4385f5e3aec068bdf98fe8a591c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7fcee9c0e71b2658e8bff28f10289ea0e7b15f09d0e9a3e7b2ac5cea12af3169">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f6dc11a731fb183fde9bb9f58902ba5719dc92147a20949286d96bc030b4cc16">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6c02490aa0e1420217307a1a18a832452f23e404bac2badfb0fe1f876909afd6">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5ced7edccf58c4af7e815b4ca34ef29bf05e0a48adbe61f477652ba483112fe">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb90325e80d5dbe1ca33db25863cccb39fa9c59f33b7995dcd9ea370ba5f51ce">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="25101348fc5e892d6d04af3e5e308411f6588a786b95a38a1dd51c2513d70f6b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="96cb6bcc7ae5dc18efcc5a00a949692e0a87921735d6ff84859369d7fd568044">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="82365e92a9a9c0419ee3c99ad01188b62a3e6dc07592753a0792b9394c4f4ee5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9fb5267e02dd403a9f78adec22acfd638715b20abb52486eca8438b79f1432d1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d3fc4f4b7b2ccc1a31909f61979555d1437afd7fa7229436a50ef6ac3cb50e66">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="a64c80ccb7ecced6f8ef969e2620579d7790e0d36882065e745df5e92b0c7359">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fc7818bcab903ed31b7f5e8a0dac4eda5ebbbe5df5cbfe1484fb446d89e5f643">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="186f3da06291b16b35c76c76c23bc4add99125c1b517d091004bb35f690c7c16">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d746e9f6f18e802cb20b36ba2af32a4fe56c2962ef0fe4d639d820a18f7cc403">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a4928fbcfc3972ccda217adf6a7edc04685eddbeae995244e06800cfa08ea848">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4149a12b8867bb3fd0beac6b4d5e59ba8bf9764c307e5c018f762a554d584911">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="307eca129a033e98a6e8bf7a9a80e69a55169f990f9a7812f18c4708536f27ec">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b928d6fd3dd41a074c558ff32a336d8d3d73781b22e5d2066d6dccb5397fd572">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="43eb6a1ed940e8821ce862ba592a02a3c3c71aacda1f9145283eb10352498872">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ba1144f04ec47f320ff886dff82373f6930757d7785e6fb447886e254fa3773">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="74f8193aed800a48ab0b26b3009943825e85f0f1c0fbc314f0a3116462ebd849">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="07150d4704b63ef37050f194b8580ef2a1f1150c2de7e8c12ec57913ccec1c56">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a9e411f02a9389948decba221f3c655dea819cca23b7434a74a5cebfa529ea88">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c370d0abe2ab2a3afc0728a4ebfe3069b3b36ad2c37e7d16dcd39d2c300f283b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3ad56eb7a860da137862a39beb13479194a402f2c1ad0fc03df5cdb67df02bce">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="94e6af7ad873b9469ebc16934913c049718003650b247dd6263637e5a62ec9fe">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8ca283d65021f6dc421973ee1ae7ff50de2dcb3951e1ac899577fe7720048471">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="30fa1a54fd86e4db42db04c3747e32a86b78eb9bb7a809f5d237c7050e6a6b4e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0bd913c6faef2c2f36bdbb38af7922b866e48987de5da156d853a314a8eff7e4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="09c4b49947a898e0d2aa8adbd9b7123f0da26f11da739d4f31f775ec1ec7c0c9">
+    <UID name="com.samsung.accessory.wmanager"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e887315412750b2ca1c9d647f66e8640b0cef1edf12cf17a10babbfd8bbe1f9d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="22eef2b2a633c0d6b224a18c4591256639141dc522feb96ac3a6814ab06e32f0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7873d7f43c34db2182a23f722308f23f1f187cf62be814fae6715325e0c62a59">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="2a7d2fa5c7bc47ea573b564c65e1d3c6530aa74bf4222734d3ac83466a27ae86">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4ecb4bcdd407ff50cf0714d75f84ce76c1e051d8e2ff0f8b9b494795dfb1bd8e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="0a08777c5fdc43a35eb6bb8d3e16f64acc324e428b5dfea8fb3605b0e50ed281">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9439710b2b64ea45539755070cea6acf0a147089c5e98282d1f79a8020704d3a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1babbb34c576b5dd3b1b8057698987cd63a991fc078b28a2486eb9ec3566d608">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="981db680503d843d9d50e0532926f61b42dc7b768c20454bc2a10df8631a023e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fc9c0df90ed5328d7c9f298dff70fc356237225dbe74243a2d41af60ab562962">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7310e3532ef243d004291d2ee09e5fb8b877f52c62ad254bd9596517d768a3ee">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7c80d9fe11f7c034343c481287d7416d98089fb6e4eeec6aca8a86e13fe170c3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f388a8b0fe9821092f2cdcd2cfa8c38613294cdc2416f495b4ae3a33a2d3a19f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e20cb1242768b779317ee778b016a1e74e8858d609e30d45f38a99a5b0555087">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="547294376447915a8798e0198d142183c2e4b7c7c01edea1c73660fe62bade9a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4f025a570b299cb73a9c1c0bdc9606c43313e3b2799be6ad9a25e9bcbe3bc5b2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="826dba984258eee3fd7af61d8f702ceb4ba667845b6392d9dbe1259d880b49c5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1451bae1d9ad956a084fda6400d120694d9fbff67fb08dc67b256a6ddb14be5e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0e5b0620371520ecf94f0d5aaad1ac5bd727a900074464628f4cf693d7aaf25b">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d96cedbf7122257f38667d7e483b9bfbe691cc49d026dad9a9fd8b62d7be6524">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="644362d7e2c7fbb2beaf42c75766af70f83c5133c85161cdc7d778da79e7aff4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d071a421d963d2cc1b77667260ca58653b5b6d1d6892cd9185ba8bba92ac9972">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="70ff0dc6536d7d9e1353e2713d69ca99c2dff1de53a7098d2f178e9ea85fcbd9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c74479e471b09ab7ce5a9a68b8307106ce76b25207bed27a21cafc3e05dec6d3">
+    <UID name="android.uid.graphics"/>
+  </HASHVALUE>
+  <HASHVALUE name="49ebd0b9c200b69cc84d8bfaffbc32fe9c6ecce78a87dcc6623ad5fb3ebd95af">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bf5eddca0a0a335cb34799b8e3f147baf4a3de60575549a9ebce357f9fbe8886">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="94656a321750456cc7da33965ddc08ebc70d2b7cf09663effad0a4195d020fda">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9951b4d4b7c5d4aca0804389be352a98942b915f50e5edbd0ce7cdf7a7ed3f94">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4db044172bb0400bb19bf0d8b6dcd2a11d1f03fad785740a4a6c8af5466f61d9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b0608474c059a6254408362b254b55200d9e24d884f4941b1ec1acb0d96b17a7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5f359a1281333509f24bd5a6e77b80ad37e68e479d5516eedf0362fd4b50d8e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b91f36d43ee5c85a14c239eee028e9872ccfaf7b7ee3867308b74a096e54405e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="791205ec1226b5279e15943e54c0c7957d47ad0c5f3b44dc6a43eb9b9579a664">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3be0c4816b4accfa728d5d92f9eebca2e445ff0659372f5bd0a5c312587df494">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="452e61f1244d67353c6787a4a6eae95b2499ff5a63b645f9c52e75757c2d67ba">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9c3c6f9b525e8f8021e8f6a5d87ec86fa271aaa935f66635dbeba715503fd8c0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ff3e1a0e865b6dd9379ff8129d8ce190f614e8d2b2f70c8094718fbf6cd747bf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b2cc47cc31a2f31513b347c587009c9edbeebf886d3e714716b690142bd58f34">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="896b923b07ae7fdcd0f55878399fbf0083acc7d9b8d249589f42f70dd7ccf86a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a14706bae25665b9ae10967b608b460baa6cee9deb1d1f11a2f891d031725d4e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d0d843885f47bbf4337694bb72f1ee3252ca08fac8b6d91011d9af5dfef227e0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b21b28cdeb6105318da0c94a3d3595ef3a9307d716b7cf277bbf7a62b6965336">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bc856a168a56c26dc3541a324b8b7dc539ff70fdd653a5b96b88df78e1088bca">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="10c28b66fbebb080521ea6126c8270da141b47870c750b6eac3c32747098662d">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e74d66f752b121fbc7ffaaf17242724fab23c8c26c6ee255a750d4998e0a2bd4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a4465151a316f788942ac90162227af99d413d97f523f6a40f47020ab316d887">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3c5853ac17707361eabcf8af9e24faab2e075459828a39e7e52e2c7a060cf3c0">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="9c71b7a2b4949c1cfa67059c40f0eaaaa8e73d08098ee7cc1698076140a0d76f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cae23d02fa1a295b6b2029cf8f15d48573c4f831c923c14c3dd9a4594e5f53a1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="30630cc403355c5e3e84e8244fd8876822afb1fb34a4198e593f59638723c52d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="71e09c9302a941385a34f3ac66ffab559b8b72352fe0310e9730f51155abaa18">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2b77e0472a77360358b3c74fa10ac933727e12c015f7b36f56dbdd7e556f8e1c">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="09237ac9097024857faca8659044e488dd9493beb553d4988d9efd2094082d46">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="12c09bbfa050b2be994a4deea941b2eefb313187ddc4ee0e20fea7f879ad3585">
+    <UID name="com.sec.android.app.healthcare.ipc.uid"/>
+  </HASHVALUE>
+  <HASHVALUE name="c18f841781d071fc13e0c0e1fa7d9685644f483c1b8af3c963a741df08312d8e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb9aee59bbd85dc3f3473eb5630fe744abd4b16a313df9cbd481b6bc0929cc27">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="24b4507d03568d375685977c1a891f72be0d040f44397a900fc523be9961d0d0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ebf89ebc9cd9912b3d95d9f50e6c4f5d05cf63a2ec950d5fb659efb8b6a92cf9">
+    <UID name="android.uid.system"/>
+    <UID name="android.uid.enhanced_features"/>
+  </HASHVALUE>
+  <HASHVALUE name="c5b36b75ef127dcc55b2c0c2f4ebf4b2a028e1b53a811990a5352ddab8fd445b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="98bbd4cc963cbfcf24a9cb61cb35278fc6d6720fa77840b80055e29531dfc247">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="70756393466cecec6c01c96b13981efb608b27cd62df0cc1cde35facf6363516">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8b8f963f18d4d27b644a81135e4446e0b1e1d2f2b359916fa99b368116f0a300">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2083f69992f50e4b4da626ef002e2b426b7e03df6c4310e9749781b4f209b74d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5862dfcec0dcb9f456523b24b456ebd29ebed97bebcae60635dbdff4003b1fc0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f5d88e139476181776c98e37022b4890908c353e955fdc1549eb8a3c895c490b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="44f79f81a9cab17846dee39c900fbe034beaa7793f63038e5464b8f6136ca381">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1f9d802bcf958f613347ccbf457196a4a6c6ef1905e0ac796c57e8a7fea457e2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="ae3e377c6ddfd2731f1c64f9364a0c9c0dead6c84e34e2a23ae2f1642b78f5b5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7214c3ad5c75aa2543a6c45921a0674f0e333361022a87bb806196bb67d7a04b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="60a8eac20329a93783cb0ebc4a50e2020c5f790b095dd8ef6f00e2e11c133034">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="14fe31339706e1dd5e3170f45a655d347c9f2ee6d4987252ecf029f44cbf9105">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="86c7d27ec969f51f9fa87efd477b283f087aac32ff065c89b4177c7eec14b657">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a106dacfcffd76c42ef6f7762624b62d7b5e772ea4e9812034dd15555c153035">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb79113038bd3f82d41d9269b8543155be5a6e8e5ea1db56643a332f4891f3a6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7ee3f93b8651a6b7609de7db2d86dd6dc0c50e50a7687cb4e656bbe9b948232a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4fd8c84afbf00d93bc250b388e5707de7c69d3ad70a7afc2e5bade3ec22f6bff">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="913375a826638fa83a45da910a33140f2fec80f89faa90f4fdde2e946f4138ae">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5fa4aef803a1e0a73b345f1d3bf908e861e7a1a99920d78ed55e934e1225219b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2d079bb106c3802ad9890c4cbaba7e7e9765303a7feece1009f7eb39aa49d2eb">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e11f3ed8deb1d62441a97d1114c2b3198b6d371143bc046a2c32f0fd83f6245e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1dad05ddcb258ef21d6e5e45367b8d06f899c49754a1a35723d7e5581591b6ff">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2afd54afbfaedc7a24005a4430610a00cf9b4aee336fbb28cdcd4be66962e4ee">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="015cf2e6a1bab4727c76e1acb73bd8060d1f311ee3cfd8dfa48f5e1c59493e44">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9239388af89dccf5f8f66094ce538e8ee8ab562714362a5cca946f29f8f7382c">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="2c864b378e587e324bfa4259bd6d9e60a06adb4b93f2fa23ca55ca6b7ea1fc52">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b781b514589bea5ef33d7744216d3cbd6543f19abb77490318eed6485908156d">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="da7c0f13b6a9b893e5522c193c0a7294f113e531f3979f6353a1e48720b07227">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9177a8ec21d44cf202e9196339dfff7ae16c702ba7201dbc5f5126c4c243e342">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e79796e668e8993f5511c36e5077b4cc93b400d9c8c25becdaed0bf73bf96320">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="92677d978c426735d251bd62700f781cfadc4ef8a9d936ed73819bd9f8e6f90f">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8e9c5402aceea2929ab2b00d633e621e338268256407339e52e1746d6095722e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="4ab3e3b86fef4063ae1683f84995a9d3b7102f78bd4657a15503701cd459dd45">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b130ec3d50b4ccbf15958ffacaef7be2475708f47470d8426f91df8e5d0eaa81">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9f1969fb9f8aa70f38dc1b9cd4591f849f9ba14715fe615a671007473e612bb4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2b0a7aecb474d28b7bfc1d7a7e2b99e973e9f148d19b606a951fce0808d65efa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="370f114eb5dba4237e58fc0eece2c041fbf6e62516175288664f65ef4902f84d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6600ac39a56b8683c2a96722debbe5cbc1272b7f922b39377ff5b9589865ce48">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a2f42e325b670aac435d79ef8ed06ab47b239d516a28dd5a6bdef798d2eccb21">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c096904719f9180377a69a2c4dc61a5d1a4cd05077eed0baf8c9f47b3f5678ae">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="09a294b48d1864858b0faa4dd74374a3c4eb509c86ef8a38c45a39f1a50702a5">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9a750e4bf073068d61809b7d8f45ddcb863ceb239cfd6ef81acf8cd80422ea8a">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad4666ba7408e92b9e388f89856eb409f007934fac724e3d35a161207f357ea1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f18adae3ead6aff89b2d9969656d144720b93a41977fed3181b24fff987fb47a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="014b791298a39bb906179894457bc1b125715066609e4616f67aaa0e51b7daa7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="e51ef0e1c86f81ed8847844002fa09f423b0cb60fe3fd3a888e7a1e0fcf72c03">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="313b6cd4dc4ec7eef086fd8d33f355d8cb97cdc1ba4ae6817c98f606501b9c97">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5677e5799ab1d8aee530a52b61e40c554c35fd07b0857f47a2b29e1601f8b571">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7bbccaed8b82615fab5e0caa67fbe9e5e5c66018cedf0347e01967b68f805485">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="6d85b9e5780233357abc68f02c3c955cbc5f495a1ff5e72139646dc5cebee899">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e69a05feb929e4019f44aa09c3e335949da945422227982f54aa5aebab35c2af">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a95b23c99d18376836b3169f08c5134204d077087765aeaf9821655ece140821">
+    <UID name="android.uid.fresco"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="eacbd33ccc1f547c5909b602f6d23bdda567e368c19126e7ebe4582fa2e1c07e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="502aee774e9acb485ca7fc1e2b6b71e251986baa96cde88a5b89d2c69be034f7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b6804c96d61b1458c1c53ad0859194305d7cacf358635cff1f923ceef36b952d">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d1786dff86e22b5b1d213f157c6363fbf723fbc20646d1c443b70e86cb723d6e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="2fddc0d5554a1018c71a59e4430f2eb86df3e8138793ee676eaaa7333d9df723">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="47cf7da0c84c8e43a614a6e51fdc738adb707d0d4235ddcae69ed390d1c44862">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="12dd086ba60de84d460aab3fb025010c5cc541248072169d2d0fe0c2fb4895f7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="869724c2203c40bd747cd86995f3cb2e4812abf130bce8124f20b75db285d374">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b693c6f5240c2ea1f6f01d5970112ddac7a8e24e7fd9df4ffa48e6ccc1fd7c7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d36a9ce7eccff6eb5960cf10ca899c62622d1cfb0af0e0704969e291ee467812">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0ad991b2f8daa0cbff20823133bf2432c031e41b2abde701af31925376d04b8b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f78ddf522f9eb545157cad498a0bd283f30e7f96b35f100e7938bdb6f7d7f9b2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="fac044ddccdd957135a63214c34081dbc61ba0c0edda38d287c337b0ec441847">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="53350dfc2c7ad871be024a1be0e905725f43b65f66d0d73ef646d3e6aba31c19">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="486af21acddda961787a872f69f1a418e7e04460b9581aeff14f6f636983ed7b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="84f5643c2bad82556fb64f14245d358306ece58b0bbe74ce14c8b4554b30987b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f88e8e7f0ca390c8754d57ec1a69e3a6737f3019e817f1eb4f7fc72914040b52">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e7ee027c782c24945ec21ba2be884cf721e92b4d045c87c65c8f193952943eae">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad2b0505b470139ca417830087899cbdd70ff9db51c2b0e371b1cc9e653284e6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="17159689aa233dc85bfc6c16fe0e1a4d3d52d688f52fa8aacf2b08a013427b63">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f9cfd5d134523a8a84a74da83fadce1229763b0e34ca7992e30e459f0ce14c84">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c4d063bad4c0c2f267be667b07336ff1dca9eaf359bd22bcc9f5a14486f831b0">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="96973b46a9c949c1e76dc69283e13af2af9867afb375076eaeba7875ad5e0ae6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9a6e587e7b2bfc096144d72c3bb99a64bf4e586bf2138517fb001041673cae5d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0af9f7acfd047468c681f24a4e76381b0b318be74c6b853c7d126cbf72ab96c0">
+    <UID name="com.afaria.client"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b744ee66afef37063519e05d945882fab150ece5e05b1fb194697694632485c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e5f4f6ea49298b61282f633bed0bc21b44933b8bde99e39a7e32324b22073eff">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1e7a0e0eff57f04061c630f2e55aed9824e93154a429993688c39114f09cdedb">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="792a87855d13dcfafa52e1fc8ac9e24e1c636557e32c194d67ccc03044ea0294">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="495ea474dfe67a68ca63feb390678213d434aa294ae039ef8160b558f2ab3d3a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9552ec088d2799ef74a4208062ee09116fa0dc72c0f50252af60b6aa6834a276">
+    <UID name="android.uid.bcmgr"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca1ceec32855e18ee4c626fa1467e546bc88816a84704db075c7f438dbd2a32d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="325539c5220352098782546d6806a8740e53f8157f36ca44da779abd12e1cee1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3bfd0518f90c5c5888098f9c6c9d22b3e05a6259792826b851670428c748013">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="01c60e40e2bde74a0918094451db53e73e6629254c17d3b93999263f37f489bb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e777f5de5ce1c935b9a658a2d12068091a6803c01f67fc0deda8f07d806291fb">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="1efd2dc989549fd04cb5b84b43bf9a52d968741050f4987fefdb94eedd095218">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="97080cb08c4f44f14a6ff51c0bfbbe194d91876395513ed720374fa7ab480fc4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ec976d1323a9fde8d0dc0870a6dbeaac706a10c83750621e296b0d5db31fa798">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9e1e1cf95b54c3361d0f86f5fffa31432e2a16dab670260abfbbe7bf9aeb8e4f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e84bda02a65cd1e01b82891721f70717a025789dc37d7dc0a8c18a7ce5330d1f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e25031cd7e566c2cf3f3cd77ea17aa08b7821b292f7dbe99c3cdfdc95e0c21f7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b6515cb1c60ec2d74c9a716839b7a51daddcb8edb7480cc4166a00b63168dfa4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3e74113cb48f3af74361797d25f6a61bc1e6de6cd39156addaaecfbcf7cf2061">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e10e3c671c8d66655be7bebf0fd8bf053760b61a4a333b72b991bf26e3c64b07">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa2b811a44f47b4cc2ccceb011e7612ad18d138b9f961fec9ba97fd4e72028ba">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b13b32971009ba1da74e18dbc83c9c7146cc87283dd133cf0a508e943eb38bfc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="425f5ec12297e26b233d4dd2a37195c4720c0123b9afb195a65ecae9dde19929">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b7d3ced9482cbc9b1bfb413ba24db30f36f142de943efe109589d9287e01b4e5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="070d5745ecd3409aaba23cb918394117031e022a5c1d1645ff4c29a52ed5128e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="11bfc7ac17352e90dc6c0350c93461fc8682bdeef15d174a11a5d88667567b19">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="08113a643ee83acf875aa0f4166ad6d73a12330ec25928a3fa55caa7827c5398">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b295c7463989e519f3d70be96912caf846969cb3050b2b3df0bfaa0d68c95056">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="65616686fd125abd1e34bb20b6717518a0f107cf1996875f170b296b3f0cc60c">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8cdeb6b4844f017fa134e39e87d2d8dfb9217027eff238c601647f8fabfa481b">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="5a85bb5cd1e5b990fb73a626080e83abd793ec30d52cc725c91e0a6c622c7083">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="857651a0a028ac06df7eab81f89bafc8dc0daf071cb371f0ad3769981e5f78ec">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8f03c089601ab8b536e17b65cb5b6854afe9f80889000ce30af879a5ad6031e5">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="08cee9debbe44aee9e38d2c97f51a9859aaad5a0ed3aaad2c37ac8d585f00df4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="fa1d54ff0dfba473e1d1e32f64ac4828231be63ea693d228ee487e7d4d15fdd3">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0ea42856cf6a1e078329b4b9e2f6108c31a84a16e58cafdb59873dee3e7d282f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ecdf078c2878f373f96ac1c41b70b0bf7c2a9f5795c8c28f19c2f7d8ab5c602f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b555ab5745568d156d0947d995894025c7dc03310598f575dbab4f9cc0418aa5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="337830d74a2cb31417b352af7a2f1855bafc5d87370709469d826ab9e2c29012">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d560eb1ca62cc64f662ec192f5a260572eca308186b584db0efb3a0c9ee78745">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bc9545cf5b9fd0dc80c8b41b96289e0d0c61c26a50fbcc24f854734b84a24a66">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cda9428597b36e46860b120576d2af7e03352792d208b366a9ff8710fef1c1b6">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="da686dc19519e328dcf3237356faed8a7044db54b661a489f01c9f3cac69a0aa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="11089d130d9d4044ed3d10856f546e093ecc4cd52322182c8ad46bff5214b0b0">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="02943f3f326602022755f546d05c2011c168d550595ab698246050b8fb859c3b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="60a29ab752b4ebe0a17d41f6b17803f0a02702c821dd9b78da8123d0b22fb8c9">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="35385ed0335c2f7fba622bc00efcff1dd780ddfe51a3274a9b1cd601c021f880">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cca259ec9487f4a817b648ce5523b1716e6d14b24f3704c14d7b999d42c3a31a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6d3dfff204d6f3c4546912893026cad642766c966f3a6540718a815ae7551a6f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3922d7c7ec57a71a6e30dffe876cc0d28a911f5a35d00d1e4107cb6dbdae6d4a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="78d2895a5d139cfb9b31467f736f4e633b3f7fa4b44a594ece544ef73015868a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3b2207eb2a9f64f8af1642cebee46f041c89a493e5d5109355651423253d8853">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4d62859054d84526d3f757bc30ecc098e401b1cdfb933df739940dd07e3b6433">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ea32d41195c30b8dc792b956179487a64ba472c852f321fe8eb33e6ae300517c">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="3f0939a9b71f4955f86922be4c846f3444f303482fe73124dec46bf2a0615e79">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="dde8c54678106bb06158c085cd0850b45b9e02f413a87b6c53d3040154eca718">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5f9e88d2153b440ac821afd4dbfe2fa524e590b7b8d496b15066977bd25fa35d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="3a15b460c8a814837cd0dd2f1d93e650e1bcf263f8d15d503fc6ec51c4f88961">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5509c8615f7da2af4696a7578ff456c3ea4084df2b86134789da7b362ebb4ba">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="196a3af3b984487ef76ebb103a3142a2450a74bbafcd8f50d1539d61455cc67b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="92ac393646c8227059e76fe35a258a7eb91cfb7daea65ca6792825fd50f79bec">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bb051b7a21f4b8e07af08fab645f8029eea419d559b22b34f8709970bc13b707">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="1cd291fb8245c77e876e034c5601432bb9d2b8d9f9edc5019241129d219f970e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="045a9761642ab7e37ef9e0df613ee101b2e997af2cbdf5eb1f1a65b51a77413b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4d96806c853bbd562c2f3b0f75ca0deffec465e08dca652a53412f2fd9aa9856">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9abb5759b1af182d3cb1f23755e5034697e00d0623356fce76eabf6616eff3a9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="df0d33bb3f04e379fde1d1223c201a53faad8d04a59114fe6b1c689c4c31e310">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad0bf47320da176b7547a82cd9668c5596d3046f367e1bc110cd65d6d322b0ae">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c6f608b43f56f6fb70cd79f0df44cc0f1e561107320cdaca920efe8bef48b28a">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="8c10e3e4150912ee19ff545aa98965453a31f3adae67195a021297e46b82af9f">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="055133f0c956c0472cf515c5b5cbdf58bcfb455ed077f1dd28ce49810d86128b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="aec3ffc3b172ff8e4f593cb5b12e0e0ee84f8206f6673c2418b2e236fd24c140">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="2835c865eaa59ea83f2641bddde5efb8d934838308f4481fa570cd568599b3ed">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3350d7a5928b92381c584b8331e3608397c2e07ca1e9bbab9c3b046e6cf0268c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e7a3acb698117659eca2d0c7c81c149e4f4dc37062f1c15ff669319500096b84">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e6ca76eabb73098d88166eec8f2a6f34eb5a996fee72c39ca1db74a6e17ea519">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="71093c040598a6ecf60da2ebbd46371bd820ab38aadba5e4636a827a617ddae8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f65f2facd0d7f08d2079f321f337a37bd1297b43a7467d6a0db1764d846ac4e7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="657c6e895f5474e1696b7b805b1f6c47a26a147d00db997a4733c480fe09d2b6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="89b2fb5d0bbe4305e209045a06049e169646b57300a072399bd300e9c5dd6bd1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="509ca9caf3ab89b3093060bb73e5d9789440c7597709631f2642542e6ce1630f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3201996c4300e2a6f9a86b3781eb7784ae0378799b521d38c896616af860a51a">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d3497dc5a560faf69f34796ed44f4e20f42df900a4efe750a24fd407813848b6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6a93c8fcce6fc4adf247335e19f4b3a045098dbe3057960a0aae50b75c68111b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0c9dddfaf0119d1ac3909d62812e62f948b001a923e612358c314695dfea3097">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="de8ddf822a38631ab192996f64c7bb07808bd6cd27ed690d29ec3a31057cf306">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="330a95343f2190d006d5ef6710d3a774663f597ae53a49457c5117c3c5b4dc7a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3af55396dfd6be2a6e2c2f8833e4bd6d1d0cea58442100c7080d40c4df2ac685">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1fe16400ba6dbcbfd1e40c0476fde14797536dbc02d3446e1b92d92b316d3200">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2edc81556629ac2b4fb71cd12080f7740f421fef85343327edea73b89cff1f04">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6b52bc50530fdfc5c9dc1299cd96a372d4970cfb099a5865089645590281ffda">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="64117efcf18170ed98a6f935a7a71baff17393834766e752e031c424fd3a653d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1d8853c7c8839483c431190a98316fc717ea35abd41cedd0f4efff67fff01788">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="3030674b54402c5280a75071c5f0c6c3dc3c147f6c0b3df820e0e34c0e350d17">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a7b5d0a1da2937f312306a0df3242058488bae0aa9d60f1c2358c59c74947474">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ac9fd8df14de7c888098b120d15eb6c7906b6b7cefeb6ac8d96c1b106a2ca1e5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b69c948bae33266e014b56cd95b24366efc83eb1c14c006bdcd61fc2998acd8c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0dbee8918d74b5b551b0977a8eaeecb1dfbede071984a22d1f66560cefd2a177">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="3d890758d4fef2479d7638e79bff2503aca88776283837600ced353aa545b2f4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="54ba811290ad6c86d035eada70da1045f9d67db8c23236622714b7771f25df3d">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="0910c46a825c2b5f5cc440af2619217594175e6d82ee90431253afa94d86dc6f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6d09138411bb8d83ae74244f7ce11868453165b6a9bd7e07b9af2a4d409e25e6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e640728d2883a85d356fe0b71ab9c6c6a0711710cd36dac1edc7f37c3ed1b55e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="acd6c98ff042f55f6827eefa251ca52f14c0b0551a6bb56bf074564d396724d0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="656de3de7c49c7accbffd569daff2f420a2539042830570c42d7bfcdf58ca1d9">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="5358075e9f15ee211c860b198aef244d924d177b4a4ebb8dde510ce43dd31567">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7096cb4af8570877ead5563de2a3dc2de2e805d548bcf533772e50666ea718a2">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="69652bb8e3d7e67edace7417c165a7d3d6f3d4678789276eaa2e2dee010e5443">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="d6b96a6c4e792d443343c70dbfe89ea74179dda589eb1f3bbc4e6ed83225f196">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ed3187c08f8967867414841201dad1da2384ba20d0d0fc2d417b94e94b063220">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d1a3ffe0e14706af5258b09e5309d0a0134c59128da1a906427f3c82506708bd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="03985ce926548937acce34f25c4a47cb58f727aca6ffa8987da593a1312843b7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="de59f939307ecf6311c4958101a9adc7f6221538cabf77b33160a81103a43308">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d0b71caeccca89ce0c47e8668eb3675aeaeea80408769bdcad5221ef52aaf6e0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cfb68b5b84e35c629712e8898aee690d65e09071ff9c3e74fcbfbc51ed700a56">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="bae3ede713477cdca503064912fe67a4166ee8e62e086eef74967bbd90fa5996">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="beb738097c302b09f12226d68911fd2daf75e3275b25c1a09c7ee6311dd8a929">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="009637178c2cc6d42c3bfeb8ee9dea13a33b8338c40a3b211aaf92b0b5666790">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="3037246439230a7ca61da877dc28f851a2455a57ca338c49649cc8216dec34d2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="62775d05f8f027b8d5ac8db5edd9bb026e0c4c0c20150d109f5518b6b8e9cf46">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c260e26acfb45408a2ac41ffd83645d91ba8c7921349232f2f00aac774a3499f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5cf21bc6d9665f09c7ae22b2338d34ab6ae1e0177d59324dbdda1affae0665b1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="484236937b7941a04a9e22aaec93beb496102a62d589891326901272a725db5e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="749a41adb3cdaeb4890db9f8a52c78023685006e28c05073cc3e443b2f4fe446">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="6fd82ef04826b276d610cf99bd01d7cf5bfb387238831f9deff70e39e0ceed4d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0e5da7b32453b3f6da34eee29caf43b127a137e934c111b8cbebb8d89d4b2cbc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="db7421846f7660aa04f3b3f806e55a28907396168583b57d0a5715c63bed9534">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1af19f1a8f7246f381ae95397428daeb221ed84f8f5c915517c51f9cff68780e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e03235d35ec787c91687a7a86932e1063d71143ad326fa883c5b5d57c2bb4bb3">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a677539eb7615c243130ed12e3b8a19260179f92e08baf6022624c0e6e516b56">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0cca4f04a59a3272a66ed8a2c98452ffbd432814ef418b9dc811cc1f8c7e131e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b309e02c098a441ff372ae828b530d69e9bd4b59b45a2a76590c8e6927e1bcdc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fae3c1c0831c017b1a9284eb81e8bccead8307871a2b08947ddf478fcb31b3c9">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="30110e7f270e188ae3778e9d953fb102bc05b097c82ae9c88d181fc71f1743c4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="086b2b8e566d22acad4fed537850db31bee6134e4c250c3217a910d34e07f334">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="29b4925f50ae07b6c7324a01c92ce4c8ca78454786a62c55a38a4000d53205e4">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa7e61d379d45be6af0bcb335e95790b6d57aa68a89cfeecd927edbae104adc7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="28f2d8d267fd9270b2ab340774cb43b6958f3ec5a516c14ce2aa57a8d2c34b02">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="a9cdf82430fb9ab99d9bf3c954c00b8aceb2b95c4dacbec33097209f2b6dda7f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="17f78fd57a8936336e02d4c4c2ce34c6cc6e846d78a320d33527c8630a0cb08a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4e0f0154a0ac8ec244a2caa19e5aa95920e9521295cca2fcab5321e5f92470a0">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="4395ac681f349f39dbff16b1eb1012bc592930e3c5dad1b173d1813ac721eb84">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="998c8306044f1958fd900a50e5d7840049c5bb33b54af65864b893fc72469ce0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b32e254153f253cf913ab4abd09fdedd688027b4418d0a5a3526a6cc8dfe7305">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="00d764fc02f90ed580d4de77b9e9e6b6756095ae0c65cdec01a7f5fec46a64bf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7e2c0c70c1c7cc65d657b6eb8e69cb8c651673c32faa901ec4f5f1a3e177998a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="560e0499d0a48a88fee711a54d6f885a32b88840eb250039cd3908faffcd74fa">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="165139a41bbdd4b5ca7702c6d7afd53e05fe37fc2a16eb27fae69d7494575401">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7b5e579424ffd69170fffb3b284f70b1c6999cf6fbe1b9f45cda7bef98994760">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cd14918cd13515369d38f37e60a2cea8c6e9b47dba405ff90a6954cc2d86a8e8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ca342644e911abb9bde753df5feaffb760534dd329b0f3aef0994d8bc9515ef1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="99ec00b6b96d103b63d07281ddd764b3b7c664f289300c30b1801146890a0ef2">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8b0f695afe4cbca3a22b2607fc49d95f8f3d3f7e7689338eef64531eb99350c4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b25e60ac8b0fe805f7545587938cea7ea2c606d40d02da79a0fb965073edda14">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="f6c24d031c5adf26a9ed24950e3996e048ad768e6ab87a77e426914b8b37f8dd">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="274acced25cfc97d744662b014fbf6328186c2e8a420f88a462924ead5565c56">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cfa35c6b9ca73626b753e3143428f6b657899f8766643203c728c092c8d0de31">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="cfb1fffeb10852fcb3204ecc39b2fb0284da152f8ad0f06244c962939273e309">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3edba0db06cee676084f11348b4c73036980f3414cc5c4d6f13feb0430d01d0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d504d3db08a0cc0def200cff76b753989ec4eb702fbd3ff9d28a5feea77e4cf8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7fa312c6ad36c372f70b7f069280b145deb35287c1f4eb434c1789667751f9ff">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="acc80019296daef626b6f35bd5914a8ddd221cedb70e9d499353072cbe122ed4">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="40e615bf3c151ee34376b7a9ad21a1de56186598b138e76a61fa556a9fc41a2f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b6d7b3a665c9bec2ef9bf3bef5b7f88ed01d0be869d3ea7566f55734674826fe">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ac90a1ef1b0cefe08c66c77dce8be4971258339a16da6700c46b3973dc780ee1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="446b61357ecd7330831afc8352071694f0bcf4b02aa399a4955136eae154aafb">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a4194e91db08b256b26c70bea9fcd2571adf36962db295c56cbbfdb08a354bce">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="acbd92dc88795df7972016a47a3116e1ef6c661527fe0c554a2783a17ae6b183">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b2a8eea220fedb0502691cd03cd31883a4333a56b2ddd87b374030f81072b922">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1b0bf1f32dba95b3de0a6022eaacf1da84624242061b84d751b1dc33987589ec">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="41cde2599baf7c30fee59dc7d4cd0e714eadb032f40bc4d4bc8e1711aadcd91c">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="62c78c39ebeb5c0aea927585739cf8f903cf18064acacd166f6dd017b1951ec3">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="3a2497609442570dbff9bff19bba3a8a5d8afda6878e9031b0ad2cafaea5d993">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="ef771a93ce6de842e07ae81630ad001023912e24be4439febb4d599941651ec9">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="11f6e9a7f31ae9a11b8e56fb62f02ff357f6608ee95864ae6f3ff140d35b8c8c">
+    <UID name="android.uid.msgcom"/>
+  </HASHVALUE>
+  <HASHVALUE name="7241cda6138fc53584cf80e68a9dee4c69cfb6000906d04f0c42acceafb58782">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b334f8947532638aa67f733a6f2bc97485a52f6723dc0c44347384e8f9111acf">
+    <UID name="com.cisco.anyconnect.android"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="de166d5bec79799fae71cb95403b66302f9144f3015df2b3da5207e5d6ce2730">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="61c1d325d5fa5af2334c0fe3a3bde252ffa9ccf3ffa6f7d710c4e8fcd0be316d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="24d76cdfd08d911d1838a6d1fdc79932a3d9cb11473af95e458d1e3d019eb459">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="644db10aa74918c5e4ca07517d42dc69bf0475b42841af7391a1038b49f53d05">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9956f1f763758ff73c541c75ba8d660123136846f298dea48b0838ee68b62736">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b600b155406c029348244ea695fab359e4ef88393ac292c1edb5f22c549974d5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8a68cc430395538da65d31153700ca5294cebf94cf59247d89f9914edf35ecbc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bf5e80d08c29954664c81dc4d106dec6de029959ae5c4dab48e57160a0cadb5d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b90ed8f36102c57a7f4518b6c2618767da1c9622dad1f65735ee78261d424a16">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c495bc2601c91d22f9f0ca31220512d4d85a24d32f525feb57edaa37d9bb85f1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="73e17b960973a11061e2b57029af5d9c11c69c8ced9789c8c12d919c5ed4ee85">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7fa246ad4b9912202fb9c037ca64781b2c6f1043de3ebdf5227d3e089be9d277">
+    <UID name="android.uid.phone"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="547614ddcde1da35a2c82495bc437156c1c34e09e538e5011a82e2c1c77efc46">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="715d262d2055acaea479e73741ecace4a6f2c3563702ac0f552e4cc65bba468f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="00e48a51392a439cf6bc0dfb36efcd827000184bcf86a75346e3f6f10a17f36d">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b8cc76ede47902aff8c0818ad006330bf1643ca99bcbf1e477c6e3c9431fb979">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="9557aa1a06dc3d1212e745cc76961a4e9d8315bbc88d338ca5a371e50d7b0a21">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="490638cb70b4f3602d9eb3152f52d8f6e1c533ae38bc27554b1045b8ba9465f1">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="99e8d65aa7af8ab83fff495f7418f4276f06ffd751f0cc356110584cf1114b18">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0186e7f6ba86cc31a43a91abeb2eb8de4a8fa13b6f66a821100dedc42d8d094e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="465e471cab48cb7dcf271e0036e0a4a4fef7fe79948e57ad37ef0272824c473d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0043726ad9d681ad08ede04ebb46355cffa4f91145749e750be24bc333a6415b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1c5f52ff720f5b8f0de8f5367d33bef496de584b33bbd3c19daafd6b88e0e5e3">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="cbdb11475ba880ebe317607054a00d1bd0c02ae0251707df5971be814eca6487">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="d5293300652375206a3aadd64bade24c606ee6aee1bfae0438e5aa9751aa723f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b4b4514f4d4b0b7a72b1bd2c7c0ff364ffb49dd398dc4a957bbb4ac926c5536e">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f0361d0108ccf5fc2f972973189771d3f4759e60010474043d8f28d03b4e537c">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="bdd652c728c633d1d713577afca5f37b665c5086d878328bc31aecade53dfabb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e94fa60c48c65b6703aa695900229cee70b4d2b47eca5eead00ec7e0865d1733">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="faebab875990d09d5049beae93355066bd70ec5e228cac71678d7c20d6a6a8f6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1ee22d56a7615fc312b1810338c268ecc1a8084c4e055b20e09e2667134f8d0d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7cd9a6cbdf0293966b08a96855da586beb095491b394baf84287f1513861b007">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="e67ea78cdea630284035cf111c5b0fbbfc0cea1bb92cd74bacc5d7397492fbb6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="69bc46406fa5a0fc3a9699261c32c1db6b0aa1d3e1d6656555b43959b342d70c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1cd15a94a663fcb32b97bde383a57feb66e0fcd6cf4c626f871c4605b33c2557">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="877c9c792935d1606253ee4b84dd3bd23df197fb92df4dd2eaae9602d1e76501">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="061f556f59349d72982f3602f43807e1024b7d044a3ae5718b090d62b8b3baa3">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="03f544de7d04e5159a059d12b9649e291eefa85ad73576ca5122c599d1456807">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c6b5f8a3527f645b74b9ee055f9d57b0b111665752dce5d5ea9ccae75af46dd0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="73f3beae98b97cc63ba206aa28ad5be4a3cdaa1222502519049a090514d85733">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="37b285e70c196c9042f86f94c3e461e1034691b279670d51a3fdc73ab7ceb448">
+    <UID name="com.seven.oc"/>
+  </HASHVALUE>
+  <HASHVALUE name="535ca8ae48422a9c1419a3d644dcf95ac5e85e4ffeb570db26a191c4994cf5e8">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="0777c610bdf7d42cb9b92d4d843078cdbef743337a17c6769bb7600ee5d35601">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b27c2f83f798f4b03fdac6492d221b8391129551f3c14f53571a00e1ebcbcddd">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="459a4868d54e1e28a516e5baff1e890a291c478763be7e6f5e414b4ee7d78f51">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="8fad4cb0f320ea70a5f407596b157f836c47d22e6d1b085a5fded3c79669aabe">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ee8f575f9fac17fd456045c2723fed845dd5c0add2386ff8efabce0e188d745d">
+    <UID name="android.uid.system"/>
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="de23b732375d123f50a78253f17052e9c4e95fe83997d4bbcf8acee1b5579b93">
+    <UID name="android.uid.phone"/>
+  </HASHVALUE>
+  <HASHVALUE name="f66f7af6178638ab635d9a6f3673944f2482552f768432e91619f3d94ff50544">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4d8a4a893b9b959fd6073bc11aa9518860a18edde41f07d712c7c76e9430ab93">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0349fc96f2035a1f7eb54fe2d73cfb086b58c1251a8f49eb2d45e6e5ed830bb8">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8f3d07618c1869827f18b83936186cb696aa360f6bf64b26d9947a3d5116f43b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="c13e3cb90277ac58d01fd58d860d4e94e630298ea456caf981def4ebf5167f77">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5231431dfc82a32db49953825404e5b509d00e15710768d154d3e6d75208d22b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="11bbec7ba8f4d39dac016424123f29f94be9e383a0e01216da2d2e4769bd5a74">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e5b0868fbb67b0a42d72c5d7a35f40cff3f38688b4ad6249960964a5274520e1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="da73d78ad60a7e2bdd471d9837fdcee1817d1dd6c88ec8189a59e5023c361f89">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1ab2fb362b963b7bf9b7f4f3016ee1acdd12591ca3c6448b036d0356dbe8de28">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8b53d7d877628f3a5875e28a83c2cd0f1682ecd2c85e0678d5740ec6f9b2633f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b0d3e0de3fed324db52620652b7a8be9fbe5be6d13f3e5755c228abdabc0259">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="481562c151f543f97f022dfc7c9f796223aec689b48907ca9d40cae38195f117">
+    <UID name="com.seven.oc"/>
+  </HASHVALUE>
+  <HASHVALUE name="558242866acefa4e310b9b3dbc79a3c6517bac546cdcc6fdf8980f4e2c7b8a13">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ebea99d0b519087e807c17b94ce8a672b5facc51976db5a35583ce65f8d2ba62">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="2e123c53d8dce2a4583011ed9031c21264d7cadcb3f068c1eb6856a79d9116bc">
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="d82e811d28fbc6b02962c60348455111ec7393995931a38e00f183918c695c3e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="1bc14b4132bb1500e772f525ba7835bb926104bf489ece82e25de0366a973a0c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="86d5ad00bfad20d73f1ee5d6262df829c5c7afda87b473710e98938db194139e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f41fdd33f0f27ea2c7948a3122977c74f5e0d56c74acf25e451b4b173cd6795b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f3dbe787f29a82f27b5b8c587207cd7e3aca988f86b97284c2f51043fed55114">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8beac08763dc2f2d12e30ece718854a2fd283214c2a6e0f4eb2760ccb9273130">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="062b2edcd3ce86d03f124a8f09ba233acb8b01da6b129f6ae0493c7d296c97e9">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="da762302e901ac688757a879f15ced76e9ddb78886c9d4027b97f63dc940eb59">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="b50e28a6cfb02716d1c5b9e6921c358b6a0175b49e9602a890fa6d3b86ffe8c4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="76effc4bdfbe7ea8ee05f1a0113d16d952a3bf4767c1294f08b247a7a2731981">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4ce1757d2fe0850239d4d476e0a204a2ad74c0d5ce6fe32e27e7127ba099b16b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="79e1399f5a460b1d7d79ac24e6547365cfef4416a0b22d7473844125738a35af">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="40f83aac60094f815a995db50946f6394bdc7efcf70649712784380000d2b5da">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ad724f2668a547529f1f4d43577f4e3a5a14bcfeefc215de96954dc9579ccfdd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e0d28beb8479ab77f3f0064881bcd0006f07812d2cca3577e54f4075b80c8d28">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="b3aff2b218e7f06c43b8e169f0f2aeb2f43a4c79a84309012c1be1d0365559e7">
+    <UID name="normal"/>
+    <UID name="com.samsung.accessory.wmanager"/>
+  </HASHVALUE>
+  <HASHVALUE name="c0edb00feab61bf64c02373303c589f0e92f9636f2436de4f519cc783e49464b">
+    <UID name="com.honeywellaidc.remotemastermind.samsung.shared"/>
+  </HASHVALUE>
+  <HASHVALUE name="e131975ba006089551eeb9bd30db02de579e020f121b81f9d6c7bc1383cc2936">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f0d4f218ca1d72806a154ae991bb9f46aaf69ec3fc8d02f7d1ea32626457897c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="805eb236eac140fd73d4219a62a7566529e549e731b8c450d940d6061dc1b551">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a00cac0bc44a87a8e4d9a7b9bd81984ce1ac42630402214572de99cfd778b6f5">
+    <UID name="normal"/>
+    <UID name="com.samsung.android.uid.video"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d407878f346d5a404771257597146e8345ad58addec409926b5d587176308d7">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a3988ec06271e13ad25143bc05a5496df3cfe74d1017d1fb50f4fb835125c2c8">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="a5647a81916ac9b37d975509711f18ffafcdc2e72982e9897ddd1b8563a581dd">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d8aa41cef0d137101d56e75944492371b1b76e24eb953e41a0ce7fd4ea7f24e">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="b9654952b239ca62ea1f355ca89c6d28832b3d02318b8ce4a95b00018e5c10d4">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="5495aa9333c83644eca42dd9192e3de40faa01c1e603ab27ddb9b32c07fd314c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="bea912b3ceb7c84626f6ab10b7093b6e077e601b5fdc9d6420c172fdafd8c70e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fb4a9384732310fcf6c70fb6590f22253f77ddd876dae6f6b056cd67e1467b41">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="e267f75d8bb009bbe4e83adbe3602e8549eafe08490e9ca9b82caa8c43348e0a">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa8ff9692e261d77d3d58a1c29ef14c9dc30c8243d994dc13f0e48b1bf8fb232">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="313a43ef1336d02adb7fb8f27e1912b23440cd50fdb0cbaf9287e88580882475">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="06fdc2b6b811c346069cd7f14bc79b278d2c0bb8428f7293aa4859d624b7279c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ef59124e639fd1e317b524c2e5d6df23fd5e2c38b0f0034d0a47a9d3c8cceb6d">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="cbd39814fbe1240b82399e0f57bfbdbb643b15533731809dbc5687cb6eecb8a7">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="904ffa9af44d919f57a806e1cff9f59ec82fa986d39374945dd4e83a1ac00456">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="76e1f1c02089d3cb00f17664b00844c1a7993dacab220272fc3b95cf9f9c3f5f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a472c2ee42abef97052da90f2d7399651c188cafff9d03826d1898f59fa15310">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fdbfaaaca1caf7d179efaf8e501b8d249022b460c6e793f9a7870d7265cf28cb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="75cfef6a1cfcdc464ce2963dd193382621133d7cd39bdd3db56608601a3b928f">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="9ad9e9e460eca31f8fb61acb500e1af60e684d92bd91e12aab1e705ccc77a1f1">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="c7c32409bde2e90ca31befe4397b6c2f6977c27fc590ac1c1a7a1897a87778d1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="5b06629d60edd281424831a4644cdee1940dded05bd6b035dbad33179bc609d0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4c427beae2a6ea174c16b8f4a93678f9a2a582d24505ce1637894d8bb21d8d4e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8309a666ea0a6418e698a05ca5793f3399caef3482f9cd634b9d7d6e176a45a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="56d883460a7c6ad33d8c0ea587a14d9752fe0c6452502b247ee4c425b9a0f24e">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="8d94a1c7f94e50ca6beca25c0b220d839eff36f126654cefdc1b0c0f46088646">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d0142707c2b74d2d29e02528ed35d35bbffa8ae8a4d1270878d67e3df537b292">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="12111cdcfc515a3aa7a363e40ecfa9d5b34b6500c6f80def0b7a2a12d8435ece">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a134737ef382beab59c10c817d2f758c4289f60ed0cfc4004e2834410ceb5c9b">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="89f8a6ab60e6deec30ff8889c26fb91445abd692226d64b721b669019b7117e6">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="d70d85af7cc7e4441fa34892cc33d904ff9f03c2ebf72de6435f284907cb2d77">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="0c0cc9873ed34b67d20a583d550ca811319c5e05fd4e6286d5728c532008b520">
+    <UID name="NONE"/>
+  </HASHVALUE>
+  <HASHVALUE name="972d462e68ad8b3e535a6e5556e24ed29f3b584eca60a658fcb55e4857d2b2bf">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="f3141825ee88a82a2ab39bc2dfce5c053dbac552c073e5e537299b5494254b64">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="00eefc39f50e2e4d071e29f2a05eeea47857fa30b864fa00c357669a2fb53532">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ecabaa54a05d1a2fee96638d041e07aa6c4966a4bc52bd6263ceb4c4797d9b89">
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="38f13fc9cb527c66a6ca9cf71e5cd40ea19087e8a94800332756344afccb3c89">
+    <UID name="normal"/>
+  </HASHVALUE>   
+  <HASHVALUE name="1a8b6d36cb49cd122550d4060071749d57be65e1f79929b65f1e3d17923bc40c">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="316330b5297a97bfa5b6a3b19f39c64d9793d8c64568661bb204e96fe4d5ef70">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="aa5290bf3c4e4a781a59be9b7b7dd09fd19711eb7ea58793ccfa29bef3e613d2">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="7c58ab68e403225b268231bcb88f7db609126a40c2421eba5af4df14b6a895af">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+  <HASHVALUE name="70709b7a1801a02288e64a90016bea06c69d2674d82288b05487d211f1194efb">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="4bb3adb957aeaffecfc4831c13c6a5704fd6aa428906d30768a3e136b1cda4f1">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="45a1ad8c96474ac0c40309eb5625d43c7ef8ac615a5df4976a9a8e2e4410cf38">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="707d360f8b9ab0da267b46e838644861b8053463a4c0056f3c9ad8220fe58cdc">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="f6c55ca061999bf49dda1c51cafbd77fa2d2ad97bc35a420ba72bef9fc8d87e0">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="18abe5aa2a71324878fb8703e07698909e0496fa5813ece3ae2f9407302706a5">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="799b0d3b535b49797a6712a4a03a6411867519bd4a02b334ac3b5063302b5cbf">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="dd2cf26f3a2e37c24d046c23a57c6e2672c39718d0a7865e3dec741c9b552f4f">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="7ec05364431d3ee30564af1fc49e42ba64fb8d4fe2e7e18347f2b9c6ac57580a">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="a28730cf5e52b90d56e55bc1e29ea2286fbd6ae0dbfa4ba663faa3724518d371">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="ed85c2472df72d00243137ffe6a42d9e4bb603e13cc9e600483a51a39e6e40da">
+    <UID name="normal"/>
+  </HASHVALUE>
+  <HASHVALUE name="fbc6cad120e12189d0751319c86ccf73028c05dccc54bcf4a69d14adc229264d">
+    <UID name="normal"/>
+    <UID name="android.uid.system"/>
+  </HASHVALUE>
+</LIST>

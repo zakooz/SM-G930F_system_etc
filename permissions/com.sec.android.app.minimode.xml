@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sec.android.app.minimode"
+            file="/system/framework/com.sec.android.app.minimode.jar"/>
+</permissions>

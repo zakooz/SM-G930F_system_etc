@@ -1,0 +1,5 @@
+service drm /system/bin/drmserver
+    class main
+    user drm
+    group system drm inet drmrpc readproc radio
+    writepid /dev/cpuset/foreground/tasks

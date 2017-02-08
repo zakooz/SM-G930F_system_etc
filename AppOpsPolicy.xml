@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<version value="161220" />
+<appops-policy>
+<delete n="ALL">
+<op n="63" />
+<op n="64" />
+<op n="65" />
+<op n="66" />
+<op n="67" />
+<op n="68" />
+<op n="69" />
+<op n="70" />
+<op n="71" />
+<op n="72" />
+<op n="73" />
+<op n="74" />
+<op n="75" />
+</delete>
+</appops-policy>

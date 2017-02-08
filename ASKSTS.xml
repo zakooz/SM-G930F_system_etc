@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<VERSION value="161228"/>
+<TRUSTEDSTORE>
+    <STORE name="com.sec.android.easyMover">
+        <DUMMY value="0"/>
+    </STORE>
+    <STORE name="com.wssnps">
+        <DUMMY value="0"/>
+    </STORE>
+    <STORE name="com.samsung.android.scloud">
+		<DUMMY value="0"/>
+    </STORE>
+    <STORE name="com.samsung.knox.bnr">
+		<DUMMY value="0"/>
+    </STORE>
+    <STORE name="com.sec.android.easyMover.Agent">
+		<DUMMY value="0"/>
+    </STORE>
+    <STORE name="com.samsung.android.Kies">
+        <DUMMY value="0"/>
+    </STORE>
+    <STORE name="ABRTInstaller">
+		<DUMMY value="0"/>
+    </STORE>
+</TRUSTEDSTORE>
